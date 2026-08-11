@@ -59,9 +59,32 @@
 | 16 bis | Datos sensibles de salud y perfil biológico humano |
 | 16 ter | Datos biométricos |
 | 16 quáter | Datos de niños, niñas y adolescentes |
-| 16 quinquies | Datos con fines históricos/estadísticos/científicos |
-| 16 sexies | Datos de geolocalización |
-| 17-19 | [No localizados como artículo con epígrafe propio en esta extracción — probablemente modificados solo en literales puntuales, igual que el Art. 2. **Verificar directamente en `sources/ley-21719-texto.txt` si una tarea concreta los necesita.**] |
+| 16 quinquies | Datos con fines históricos/estadísticos/científicos — presunción de interés legítimo si es EXCLUSIVAMENTE con esos fines y de interés público; exige medidas de calidad/seguridad y, si son sensibles, identificar y mitigar riesgos; permite plazo indeterminado de conservación; toda publicación de resultados debe anonimizar antes |
+| 16 sexies | Datos de geolocalización — NO es régimen de dato sensible aparte: se trata bajo las mismas bases de licitud de los Arts. 12-13, pero exige informar tipo de dato, finalidad, duración, y si se cede a terceros para un servicio de valor añadido |
+
+## Título III — Obligaciones de carácter económico, financiero, bancario o comercial (Arts. 17-19)
+**Resuelto 2026-08-11** (antes marcado `[verificar]`): Arts. 17-19 corresponden al Título III de la Ley
+19.628 **original** (1999) — no tiene epígrafe "TÍTULO III" propio en el texto de la 21.719 porque esta
+ley NO lo reestructura como título completo (solo modifica literales puntuales del Art. 17, ver inciso
+9 del texto de enmiendas), a diferencia de otros Títulos que sí fueron reemplazados íntegros. Verificado
+directo contra `sources/ley-19628-original-texto.txt` (líneas 418-598) y contra las enmiendas puntuales
+en `sources/ley-21719-texto.txt` (línea ~1440).
+| Art. | Materia |
+|---|---|
+| 17 | Régimen de comunicación de datos de obligaciones económicas/financieras/bancarias/comerciales a boletines de informaciones comerciales (tipo DICOM) — letras/pagarés/cheques protestados, incumplimiento de créditos/mutuos. **Excluye expresamente** deudas de servicios básicos (luz/agua/teléfono/gas), deudas de salud, y — relevante para este proyecto — **cualquier deuda contraída para recibir un servicio educacional formal en cualquier nivel**. Reglas de bloqueo por cesantía. |
+| 18 | Plazo máximo de comunicación: 5 años desde que la obligación se hizo exigible; cesa al pagarse |
+| 19 | Deber de actualizar/bloquear el dato al pagarse la obligación; infracciones se sancionan según Art. 16 (original) |
+
+**Relevancia para SLEP/colegio/sostenedor:** prácticamente nula como régimen aplicable directamente —
+un establecimiento educacional no opera como boletín de informaciones comerciales, y las deudas
+educacionales están excluidas por ley de este régimen de reporte. La única conexión indirecta es que
+el Art. 12 letra a) (bases de licitud) menciona el tratamiento de "situación socioeconómica" "de
+conformidad con las normas del Título III" — dato sensible (Art. 2 letra g) que SLEP/colegios sí tratan
+activamente (SEP, becas, JUNAEB, clasificación prioritario/preferente). Esa referencia cruzada es
+imprecisa/no desarrolla una regla operativa propia para el uso educacional de datos socioeconómicos —
+no inventar una regla que el texto no da; si un caso real lo requiere, tratar la base de licitud de
+"situación socioeconómica" por la vía general de datos sensibles (Art. 16) más el interés
+legítimo/obligación legal de los programas de subvención (SEP), no por el Título III.
 
 ## Título IV — Tratamiento por órganos públicos (Arts. 20-26)
 | Art. | Materia |
@@ -135,4 +158,13 @@
 - Las sanciones **no** son "Art. 34 bis/ter/quáter" como clasificación general — **son la clasificación misma**: 34 (marco), 34 bis (leves), 34 ter (graves), 34 quáter (gravísimas); los **montos** están en el Art. 35.
 - El deber de reportar brechas es el **Art. 14 sexies** — texto verificado: reportar a la Agencia "por los medios más expeditos posibles y **sin dilaciones indebidas**" si hay riesgo razonable para los titulares (**NO fija 72 horas**, eso es estándar GDPR, no chileno). Debe registrarse la vulneración. Si afecta datos sensibles, de niños menores de 14 años, o económico/financiero/bancario/comercial → avisar también a los titulares directamente (o por medio masivo si no es posible individualizar).
 - DPO/MPI es **voluntario** por regla general (Art. 49) — pero el detalle de designación obligatoria en el sector público, si existe, debe verificarse en el Reglamento y en la Ley 19.628 vigente, no asumirse.
-- Arts. 17-19 no confirmados con epígrafe propio en esta extracción — tratar como `[verificar]` antes de citarlos con seguridad.
+- **Transferencias internacionales (Arts. 27-29, Título V) — mecanismo real, no solo un campo a marcar:**
+  3 vías de autorización general (a. país adecuado según lista de la Agencia, b. cláusulas
+  contractuales/normas corporativas vinculantes, c. modelo de cumplimiento/certificación) y, en su
+  ausencia, 8 excepciones específicas para transferencias no habituales (consentimiento expreso del
+  titular, transferencias bancarias/financieras/bursátiles reguladas, tratados internacionales,
+  convenios de cooperación de órganos públicos, autorización legal expresa, colaboración judicial
+  internacional, contrato con el titular, urgencia médica/sanitaria). Relevante en la práctica para
+  cualquier uso de software/nube extranjera (Google Workspace, Microsoft 365, Zoom, etc.) — no asumir
+  que basta con mencionarlo en el RAT, ver el árbol de decisión completo antes de autorizar un
+  proveedor extranjero nuevo.
