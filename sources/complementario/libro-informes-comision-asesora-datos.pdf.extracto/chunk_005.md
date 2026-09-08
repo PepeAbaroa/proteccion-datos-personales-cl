@@ -1,0 +1,25 @@
+# página 6 — de libro-informes-comision-asesora-datos.pdf
+
+04
+3° INFORME DE LA COMISIÓN DE IMPLEMENTACIÓN PARA LA LEY DE 
+PROTECCIÓN DE DATOS PERSONALES: Referido a recomendaciones para la 
+implementación de la ley en la Administración del Estado.
+I. ANTECEDENTES 
+II. CONTEXTO
+III. RECOMENDACIONES DE ESTA COMISIÓN DE IMPLEMENTACIÓN
+4° INFORME DE LA COMISIÓN DE IMPLEMENTACIÓN PARA LA LEY DE 
+PROTECCIÓN DE DATOS PERSONALES.
+I. ANTECEDENTES 
+II. CONTEXTO
+III. RECOMENDACIONES DE LA COMISIÓN DE IMPLEMENTACIÓN
+29
+30
+30
+31
+35
+36
+39
+40
+ÍNDICE
+Comisión Asesora Ministerial para la Implementación de la ley N° 21.719
+

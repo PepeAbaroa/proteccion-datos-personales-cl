@@ -1,0 +1,43 @@
+# página 4 — de iso-iec-29100-2024.pdf
+
+ISO/IEC 29100:2024(en)
+Foreword
+ISO (the International Organization for Standardization) and IEC (the International Electrotechnical 
+Commission) form the specialized system for worldwide standardization. National bodies that are 
+members of ISO or IEC participate in the development of International Standards through technical 
+committees established by the respective organization to deal with particular fields of technical activity. 
+ISO and IEC technical committees collaborate in fields of mutual interest. Other international organizations, 
+governmental and non-governmental, in liaison with ISO and IEC, also take part in the work.
+The procedures used to develop this document and those intended for its further maintenance are described 
+in the ISO/IEC Directives, Part 1. In particular, the different approval criteria needed for the different types 
+of document should be noted. This document was drafted in accordance with the editorial rules of the ISO/
+IEC Directives, Part 2 (see www.iso.org/directives or www.iec.ch/members_experts/refdocs).
+ISO and IEC draw attention to the possibility that the implementation of this document may involve the 
+use of (a) patent(s). ISO and IEC take no position concerning the evidence, validity or applicability of any 
+claimed patent rights in respect thereof. As of the date of publication of this document, ISO and IEC had not 
+received notice of (a) patent(s) which may be required to implement this document. However, implementers 
+are cautioned that this may not represent the latest information, which may be obtained from the patent 
+database available at www.iso.org/patents and https://patents.iec.ch. ISO and IEC shall not be held 
+responsible for identifying any or all such patent rights.
+Any trade name used in this document is information given for the convenience of users and does not 
+constitute an endorsement.
+For an explanation of the voluntary nature of standards, the meaning of ISO specific terms and expressions 
+related to conformity assessment, as well as information about ISO's adherence to the World Trade 
+Organization (WTO) principles in the Technical Barriers to Trade (TBT) see www.iso.org/iso/foreword.html. 
+In the IEC, see www.iec.ch/understanding-standards.
+This document was prepared by Joint Technical Committee ISO/IEC  JTC  1, Information technology, 
+Subcommittee SC 27, Information security, cybersecurity and privacy protection.
+This second edition cancels and replaces the first edition (ISO/IEC 29100:2011), of which it constitutes a 
+minor revision. It also incorporates the Amendment ISO/IEC 29100:2011/Amd 1:2018. 
+The main changes are as follows:
+—	 Clause 2 (normative references) has been added and cross-references have been updated throughout the 
+document; 
+—	 replaced the term "secondary use” with “secondary purpose” in Clause 3;
+—	 bibliography has been updated.
+Any feedback or questions on this document should be directed to the user’s national standards 
+body. A complete listing of these bodies can be found at www.iso.org/members.html and 
+www.iec.ch/national-committees.
+iv
+﻿
+© ISO/IEC 2024 – All rights reserved
+

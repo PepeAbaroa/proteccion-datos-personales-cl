@@ -1,0 +1,134 @@
+# ÍNDICE TOTAL — libro-blanco-del-dpo.pdf
+
+Inventario completo (nada omitido). Cargar al contexto este índice SIEMPRE;
+los chunks, solo el que la tarea toque.
+
+## Inventario
+- Páginas: 121
+- Imágenes totales: 12
+
+## Mapa de chunks
+- `chunk_000.md` — página 1 (67 chars) · «II EDICIÓN  EL LIBRO BLANCO DEL DPO 11  [3 imágenes en esta página]…»
+- `chunk_001.md` — página 2 (515 chars) · «Copyright: Todos los derechos reservados. Puede descargar, almacenar, utilizar o imprimir …»
+- `chunk_002.md` — página 3 (366 chars) · «AUTORES Carlos A. Saiz Alberto Casaseca Alberto Ribes Araceli Fernández Aranzazu Herráez E…»
+- `chunk_003.md` — página 4 (4053 chars) · «CONTENIDO 1. INTRODUCCIÓN Y CONTEXTO ACTUAL                                               …»
+- `chunk_004.md` — página 5 (5134 chars) · «4.1.8. Recursos Humanos (RR.HH.)                                                          …»
+- `chunk_005.md` — página 6 (4840 chars) · «6.2.7. Fomento de la cultura de privacidad	                                               …»
+- `chunk_006.md` — página 7 (2350 chars) · «8. EL PERFIL DEL DELEGADO DE PROTECCIÓN DE DATOS                                          …»
+- `chunk_007.md` — página 8 (2104 chars) · «INTRODUCCIÓN Y  CONTEXTO  ACTUAL  1 1.1.	 Evolución y aprendizajes: razones para  una segu…»
+- `chunk_008.md` — página 9 (4059 chars) · «w w w . i s m s f o r u m . e s Uno de los hitos más relevantes en esta evolución ha sido …»
+- `chunk_009.md` — página 10 (2871 chars) · «de privacidad y gobernanza. La gestión de los riesgos asociados a la IA y la evolución de …»
+- `chunk_010.md` — página 11 (2949 chars) · «Antes de la entrada en vigor del RGPD, el GT29 destacó el papel de los entonces denominado…»
+- `chunk_011.md` — página 12 (2366 chars) · «LA FUNCIÓN DEL  DELEGADO DE  PROTECCIÓN  DE DATOS 2 El considerando 97 RGPD señala: “Al su…»
+- `chunk_012.md` — página 13 (2275 chars) · «w w w . i s m s f o r u m . e s como actividades auxiliares. El nivel de conocimientos esp…»
+- `chunk_013.md` — página 14 (1369 chars) · «El concepto de “actividad principal” debe interpretarse de forma incluyente de todas aquel…»
+- `chunk_014.md` — página 15 (2610 chars) · «w w w . i s m s f o r u m . e s Sin perjuicio de lo establecido en el RGPD, la LOPDGDD en …»
+- `chunk_015.md` — página 16 (3038 chars) · «w w w . i s m s f o r u m . e s Si algo escapa a la enumeración anterior, el GT29 recomien…»
+- `chunk_016.md` — página 17 (2219 chars) · «w w w . i s m s f o r u m . e s 2.2. Funciones o tareas del delegado de protección de dato…»
+- `chunk_017.md` — página 18 (3163 chars) · «El DPO asume principalmente funciones de asesoramiento y supervisión en beneficio del resp…»
+- `chunk_018.md` — página 19 (2216 chars) · «Según el punto 7.2 del Esquema, las funciones genéricas del DPO se pueden concretar en tar…»
+- `chunk_019.md` — página 20 (2128 chars) · «w w w . i s m s f o r u m . e s 17. Determinación de la necesidad de realización de evalua…»
+- `chunk_020.md` — página 21 (1935 chars) · «21 MODELOS  ORGANIZATIVOS 3 Dado que no existe una normativa específica que regule este as…»
+- `chunk_021.md` — página 22 (1220 chars) · «En este mismo sentido, la AEPD en su informe jurídico 38/2023 ha determinado que el encuad…»
+- `chunk_022.md` — página 23 (2613 chars) · «Adoptar estándares, políticas internas y mejores prácticas que permitan acreditar el  cump…»
+- `chunk_023.md` — página 24 (2480 chars) · «w w w . i s m s f o r u m . e s En este apartado se plasman diversas reflexiones sobre los…»
+- `chunk_024.md` — página 25 (2356 chars) · «w w w . i s m s f o r u m . e s Tal como indica el EDPB (Comité Europeo de Protección de d…»
+- `chunk_025.md` — página 26 (2156 chars) · «w w w . i s m s f o r u m . e s 3.2.2. DPO Departamental (órgano colegiado o Comité) Según…»
+- `chunk_026.md` — página 27 (2459 chars) · «3.2.3. DPO Interno Según el Estudio sobre el Nivel de Madurez y Cumplimiento del RGPD en E…»
+- `chunk_027.md` — página 28 (3182 chars) · «w w w . i s m s f o r u m . e s 3.3.1. Modelo I: DPO y CISO Partiendo del modelo previo al…»
+- `chunk_028.md` — página 29 (3245 chars) · «w w w . i s m s f o r u m . e s El DPO debe estar implicado desde el inicio en la evaluaci…»
+- `chunk_029.md` — página 30 (3024 chars) · «w w w . i s m s f o r u m . e s 3.3.2. Modelo II: DPO y Compliance Por otra parte, un núme…»
+- `chunk_030.md` — página 31 (3420 chars) · «w w w . i s m s f o r u m . e s Las organizaciones deben llevar a cabo un análisis exhaust…»
+- `chunk_031.md` — página 32 (1462 chars) · «w w w . i s m s f o r u m . e s definieran las funciones del DPO para que éste pueda actua…»
+- `chunk_032.md` — página 33 (2035 chars) · «MODELOS RELACIONAL:  REPORTE Y RELACIÓN  CON EL RESTO DE LA  ORGANIZACIÓN  El reporte del …»
+- `chunk_033.md` — página 34 (3318 chars) · «w w w . i s m s f o r u m . e s datos, o cualquier otra legislación sectorial con impacto …»
+- `chunk_034.md` — página 35 (2879 chars) · «w w w . i s m s f o r u m . e s El DPO puede adoptar varios modelos para estructurar sus r…»
+- `chunk_035.md` — página 36 (2326 chars) · «w w w . i s m s f o r u m . e s ii.	  Reporte basado en riesgos   En este modelo, el DPO o…»
+- `chunk_036.md` — página 37 (1936 chars) · «w w w . i s m s f o r u m . e s iii.  Reporte basado en secciones de cumplimiento  Una met…»
+- `chunk_037.md` — página 38 (2995 chars) · «w w w . i s m s f o r u m . e s iv.  Reporte basado información combinada (cumplimiento, m…»
+- `chunk_038.md` — página 39 (2541 chars) · «w w w . i s m s f o r u m . e s a. Resumen Ejecutivo: este apartado es fundamental para pr…»
+- `chunk_039.md` — página 40 (1553 chars) · «w w w . i s m s f o r u m . e s 4.1.4. Factores que Influyen en la Elección de la Metodolo…»
+- `chunk_040.md` — página 41 (1907 chars) · «El DPO puede optar por varias formas de comunicar la información a la alta dirección. Cada…»
+- `chunk_041.md` — página 42 (1637 chars) · «w w w . i s m s f o r u m . e s •	 Los gráficos y visuales permiten condensar  grandes vol…»
+- `chunk_042.md` — página 43 (1568 chars) · «Exposición oral   Otra forma común de exponer el reporte es a través de una presentación o…»
+- `chunk_043.md` — página 44 (2467 chars) · «w w w . i s m s f o r u m . e s Combinación de métodos  Al igual que se ha explicado en el…»
+- `chunk_044.md` — página 45 (2929 chars) · «4.1.6. Líneas a seguir en el reporte  Independientemente del modelo de reporte elegido, el…»
+- `chunk_045.md` — página 46 (3093 chars) · «w w w . i s m s f o r u m . e s 4.1.9. Departamento de TI (Tecnología de la Información) E…»
+- `chunk_046.md` — página 47 (2906 chars) · «4.1.11. Marketing y Ventas  w w w . i s m s f o r u m . e s Los departamentos de marketing…»
+- `chunk_047.md` — página 48 (1488 chars) · «4.1.13. Alta dirección  Como ya se ha profundizado en el capítulo previo, el apoyo de la a…»
+- `chunk_048.md` — página 49 (1739 chars) · «SECTOR PÚBLICO  El RGPD en el artículo 37 dispone que el responsable y el encargado de un …»
+- `chunk_049.md` — página 50 (2871 chars) · «w w w . i s m s f o r u m . e s 3. Tienen la consideración de Administraciones Públicas, l…»
+- `chunk_050.md` — página 51 (3359 chars) · «w w w . i s m s f o r u m . e s Ejemplo de lo expresado en el párrafo anterior es la Orden…»
+- `chunk_051.md` — página 52 (1971 chars) · «información tratada y los servicios prestados por parte de las entidades del sector  públi…»
+- `chunk_052.md` — página 53 (2621 chars) · «5.5.1. Protección de datos y Seguridad de la Información en el Sector Pú- blico Hacia un n…»
+- `chunk_053.md` — página 54 (2176 chars) · «w w w . i s m s f o r u m . e s PDP) y las medidas derivadas de ésta se impondrán a las pr…»
+- `chunk_054.md` — página 55 (2529 chars) · «w w w . i s m s f o r u m . e s Muestra de la concurrencia lógica de responsabilidades es …»
+- `chunk_055.md` — página 56 (1279 chars) · «w w w . i s m s f o r u m . e s          Establecimiento de mecanismos visibles, accesible…»
+- `chunk_056.md` — página 57 (2406 chars) · «w w w . i s m s f o r u m . e s         Establecimiento del Registro de Actividades de Tra…»
+- `chunk_057.md` — página 58 (2392 chars) · «En consonancia con el reglamento EU 2022/868 de 30 de mayo de 2022 relativo a la Gobernanz…»
+- `chunk_058.md` — página 59 (2434 chars) · «El RGPD establece en artículo 37.5 que el DPO “será designado atendiendo a sus cualidades …»
+- `chunk_059.md` — página 60 (3606 chars) · «Entre otros, el mecanismo de certificación. Al efecto se determina que estos mecanismos de…»
+- `chunk_060.md` — página 61 (3607 chars) · «Podría por lo tanto derivarse de la existencia de este procedimiento la interdicción para …»
+- `chunk_061.md` — página 62 (2163 chars) · «GOBIERNO DE LA  PRIVACIDAD De conformidad con lo establecido en el RGPD, las entidades púb…»
+- `chunk_062.md` — página 63 (1873 chars) · «w w w . i s m s f o r u m . e s El Gobierno de la Protección de Datos debe demostrar su li…»
+- `chunk_063.md` — página 64 (2188 chars) · «w w w . i s m s f o r u m . e s 6.2.	 Modelo de Gobierno de la Protección de Datos El punt…»
+- `chunk_064.md` — página 65 (1885 chars) · «w w w . i s m s f o r u m . e s especializado, como responsable de supervisar el cumplimie…»
+- `chunk_065.md` — página 66 (2344 chars) · «w w w . i s m s f o r u m . e s 6.2.4. Sistema de Gestión de la Información de Carácter Pe…»
+- `chunk_066.md` — página 67 (2378 chars) · «w w w . i s m s f o r u m . e s 2. Auditoría de Protección de Datos La auditoría es un pro…»
+- `chunk_067.md` — página 68 (2547 chars) · «w w w . i s m s f o r u m . e s 8. Procedimiento de Análisis de Riesgos y EIPD  Este proce…»
+- `chunk_068.md` — página 69 (2147 chars) · «w w w . i s m s f o r u m . e s 6.2.5. Integración con otras Funciones de Cumplimiento  Un…»
+- `chunk_069.md` — página 70 (3081 chars) · «w w w . i s m s f o r u m . e s 6.2.6. Formación y concienciación continua  Otro de los pi…»
+- `chunk_070.md` — página 71 (2085 chars) · «w w w . i s m s f o r u m . e s la alta dirección de la organización para impulsar una cul…»
+- `chunk_071.md` — página 72 (1402 chars) · «w w w . i s m s f o r u m . e s                 Transparencia Compromiso de proporcionar i…»
+- `chunk_072.md` — página 73 (1763 chars) · «w w w . i s m s f o r u m . e s                 Exactitud Compromiso de disponer de medida…»
+- `chunk_073.md` — página 74 (1622 chars) · «w w w . i s m s f o r u m . e s                 Transferencias Internacionales Compromiso …»
+- `chunk_074.md` — página 75 (1735 chars) · «w w w . i s m s f o r u m . e s                 Protección de Datos desde el Diseño y por …»
+- `chunk_075.md` — página 76 (2166 chars) · «w w w . i s m s f o r u m . e s                 Formación y Concienciación Compromiso de f…»
+- `chunk_076.md` — página 77 (1996 chars) · «w w w . i s m s f o r u m . e s 2. Delegado de Protección de Datos (DPO): El DPO es la pie…»
+- `chunk_077.md` — página 78 (1228 chars) · «w w w . i s m s f o r u m . e s Y entre los mecanismos de relación más habituales entre es…»
+- `chunk_078.md` — página 79 (1059 chars) · «w w w . i s m s f o r u m . e s Imagen 5. Modelo de Gobierno de Privacidad – Multinacional…»
+- `chunk_079.md` — página 80 (2862 chars) · «a) Cultura de protección de datos: Uno de los mayores retos de los últimos años ha sido im…»
+- `chunk_080.md` — página 81 (3139 chars) · «c) Establecimiento de directrices, responsabilidades y objetivos claros: La falta de clari…»
+- `chunk_081.md` — página 82 (2869 chars) · «w w w . i s m s f o r u m . e s “La integración efectiva de la protección de datos en los …»
+- `chunk_082.md` — página 83 (990 chars) · «w w w . i s m s f o r u m . e s “El DPO debe adaptar sus funciones para abordar los riesgo…»
+- `chunk_083.md` — página 84 (2417 chars) · «MECANISMOS DE  INDEPENDENCIA 7 Desde la introducción del Reglamento General de Protección …»
+- `chunk_084.md` — página 85 (2967 chars) · «w w w . i s m s f o r u m . e s En ambas, el TJUE se pronunció sobre la interpretación del…»
+- `chunk_085.md` — página 86 (2816 chars) · «Uno de los mayores retos para garantizar la independencia del DPO es la resistencia cultur…»
+- `chunk_086.md` — página 87 (3396 chars) · «7.2.2. Reporte y dependencia jerárquica del DPO Para garantizar su independencia, el RGPD …»
+- `chunk_087.md` — página 88 (3765 chars) · «w w w . i s m s f o r u m . e s La dependencia jerárquica del DPO de la primera línea de d…»
+- `chunk_088.md` — página 89 (3181 chars) · «Lo crucial es que, al final del día, el DPO pueda constatar que mantiene los rasgos esenci…»
+- `chunk_089.md` — página 90 (2448 chars) · «7.2.5. Falta de integración en procesos críticos w w w . i s m s f o r u m . e s A menudo,…»
+- `chunk_090.md` — página 91 (2503 chars) · «7.3. Mecanismos para garantizar la independencia de DPO La independencia del DPO no puede …»
+- `chunk_091.md` — página 92 (2796 chars) · «7.3.4. Participación activa en procesos de decisión El DPO debe ser consultado de manera p…»
+- `chunk_092.md` — página 93 (2882 chars) · «7.3.7. Auditorías independientes Realizar auditorías externas sobre el funcionamiento del …»
+- `chunk_093.md` — página 94 (3376 chars) · «7.4. Independencia del DPO y Resoluciones de las  Autoridades de Control de Protección de …»
+- `chunk_094.md` — página 95 (2272 chars) · «w w w . i s m s f o r u m . e s El Reglamento General de Protección de Datos (RGPD) establ…»
+- `chunk_095.md` — página 96 (2374 chars) · «Artículo 65 – Infracciones: Las infracciones relacionadas con el DPO se tipifican como lev…»
+- `chunk_096.md` — página 97 (2815 chars) · «Falta de designación preceptiva de DPO: la AEPD ha impuesto con frecuencia sanciones de  a…»
+- `chunk_097.md` — página 98 (3371 chars) · «CROACIA. En septiembre de 2023, la Agencia de Protección de Datos Personales croata [Agenc…»
+- `chunk_098.md` — página 99 (2352 chars) · «LUXEMBURGO: Destacar17, la sentencia del alto Tribunal de Luxemburgo (equivalente al Tribu…»
+- `chunk_099.md` — página 100 (2528 chars) · «EL PERFIL DEL  DELEGADO DE  PROTECCIÓN DE DATOS 8 Una vez nombrado el DPO, el artículo 38,…»
+- `chunk_100.md` — página 101 (3352 chars) · «fácilmente a él. Entretanto, el artículo 37, apartado 6, del RGPD y el artículo 43, aparta…»
+- `chunk_101.md` — página 102 (2116 chars) · «El DPO debe contar con conocimiento y experiencia, acreditada y reconocida en los siguient…»
+- `chunk_102.md` — página 103 (2549 chars) · «w w w . i s m s f o r u m . e s Este tipo de competencias, algunas innatas otras aprendida…»
+- `chunk_103.md` — página 104 (2939 chars) · «w w w . i s m s f o r u m . e s Sin duda, resulta elemental la formación continua del DPO …»
+- `chunk_104.md` — página 105 (3050 chars) · «w w w . i s m s f o r u m . e s estos riesgos, sino que además aporten valor añadido, como…»
+- `chunk_105.md` — página 106 (2928 chars) · «w w w . i s m s f o r u m . e s El primer paso para una comunicación efectiva es entender …»
+- `chunk_106.md` — página 107 (3171 chars) · «2. Capacidad de influencia y negociación Una de las habilidades más relevantes que debe de…»
+- `chunk_107.md` — página 108 (2828 chars) · «3. de los individuos y los principios de protección de datos, pero también proponiendo alt…»
+- `chunk_108.md` — página 109 (2005 chars) · «EL DPO EN EL MARCO  NORMATIVO DE  LA INTELIGENCIA  ARTIFICIAL 9 El recientemente publicado…»
+- `chunk_109.md` — página 110 (2424 chars) · «En este contexto, en el apartado 7 de esta Guía, vamos a exponer las claves que entendemos…»
+- `chunk_110.md` — página 111 (3240 chars) · «De la literalidad de los artículos citados y de la práctica que acumula el RGPD y las reso…»
+- `chunk_111.md` — página 112 (3855 chars) · «w w w . i s m s f o r u m . e s i.	 Las autoridades de protección de datos consideran la I…»
+- `chunk_112.md` — página 113 (3718 chars) · «w w w . i s m s f o r u m . e s Concreta el RGPD este riesgos para los derechos y libertad…»
+- `chunk_113.md` — página 114 (3779 chars) · «fin de demostrar que el tratamiento de los datos personales es conforme con el presente Re…»
+- `chunk_114.md` — página 115 (3372 chars) · «w w w . i s m s f o r u m . e s 	 el fallecimiento de una persona o un perjuicio grave par…»
+- `chunk_115.md` — página 116 (3368 chars) · «w w w . i s m s f o r u m . e s i.	 obligan a informar al usuario que está interactuando c…»
+- `chunk_116.md` — página 117 (1742 chars) · «w w w . i s m s f o r u m . e s El RIA establece una serie de obligaciones concretas para …»
+- `chunk_117.md` — página 118 (2844 chars) · «w w w . i s m s f o r u m . e s Adicionalmente, en lo que respecta a la documentación técn…»
+- `chunk_118.md` — página 119 (6855 chars) · «Categoría Métrica Detalles/Objetivo Nº total de normas corporatvas Realizar un inventario …»
+- `chunk_119.md` — página 120 (3553 chars) · «Nº de sistemas de información que alojan o tratan datos personales Nº de revisiones / audi…»
+- `chunk_120.md` — página 121 (126 chars) · «w w w . i s m s f o r u m . e s C A P Í T U L O FEBRERO 2025 II EDICIÓN DEL LIBRO BLANCO  …»
+
+## Verificación de integridad
+- ✔ páginas extraídas == páginas del PDF

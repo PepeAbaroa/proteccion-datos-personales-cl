@@ -1,0 +1,12 @@
+# página 1 — de libro-informes-comision-asesora-datos.pdf
+
+RECOMENDACIONES PARA LA 
+IMPLEMENTACIÓN DE LA NUEVA 
+LEY DE PROTECCIÓN DE DATOS 
+PERSONALES
+COMISIÓN ASESORA MINISTERIAL 
+PARA LA IMPLEMENTACIÓN DE LA LEY N° 21.719
+M I N I S T E R I O  S E C R E T A R Í A  G E N E R A L  D E  L A  P R E S I D E N C I A
+2 0 2 5  -  2 0 2 6
+
+[1 imágenes en esta página]
