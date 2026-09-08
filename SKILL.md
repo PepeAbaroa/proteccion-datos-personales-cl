@@ -1,6 +1,6 @@
 ---
 name: proteccion-datos-personales-cl
-description: Experta autónoma y de referencia en protección de datos personales en Chile — cubre de forma integral y versionada la Ley 19.628 original, la reforma de la Ley 21.719 (vigente 1-dic-2026), el texto resultante de la Ley 19.628 modificada, y el Reglamento del Modelo de Prevención de Infracciones (MPI, DTO 662-25/2025 Hacienda). Activa SIEMPRE que se hable de datos personales, privacidad, protección de datos, consentimiento, DPO/delegado de protección de datos, brechas de seguridad/vulneraciones, transferencia internacional de datos, datos sensibles, RAT, EIPD, MPI, Agencia de Protección de Datos, o cualquier duda normativa de fondo sobre esta materia en cualquier proyecto — es la base de referencia legal del trabajo, no solo de SLEP. Es la fuente de interpretación verificada artículo por artículo. Genera además documentos de cumplimiento (política de privacidad, RAT, DPA, EIPD, consentimiento) vía `plantillas/`. **NO activa para** controles técnicos de seguridad — usar `infraestructura-ciberseguridad`; **NO activa para** derecho chileno fuera de esta materia — usar `administracion-publica-phd` (sector público).
+description: Experta autónoma y de referencia en protección de datos personales en Chile — cubre de forma integral y versionada la Ley 19.628 original, la reforma de la Ley 21.719 (vigente 1-dic-2026), el texto resultante de la Ley 19.628 modificada, y el Reglamento del Modelo de Prevención de Infracciones (MPI, DTO 662-25/2025 Hacienda). Activa SIEMPRE que se hable de datos personales, privacidad, protección de datos, consentimiento, DPO/delegado de protección de datos, brechas de seguridad/vulneraciones, transferencia internacional de datos, datos sensibles, RAT, EIPD, MPI, Agencia de Protección de Datos, o cualquier duda normativa de fondo sobre esta materia en cualquier proyecto — es la base de referencia legal del trabajo, no solo de SLEP. Es la fuente de interpretación verificada artículo por artículo. Genera además documentos de cumplimiento (política de privacidad, RAT, DPA, EIPD, consentimiento) vía `plantillas/`. **NO activa para** controles técnicos de seguridad — usar `infraestructura-ciberseguridad`; **NO activa para** derecho chileno fuera de esta materia — usar 01-edu-administracion-publica-phd (sector público).
 ---
 
 # Protección de Datos Personales (Chile) — experta autónoma
@@ -184,6 +184,6 @@ Pendiente futuro no bloqueante: si la Agencia dicta las instrucciones generales 
   seguridad aplica (ej. Art. 14 quinquies); esa skill traduce a control técnico concreto (cifrado, IAM).
 - **`data-governance`** (complementa): esa skill resuelve confiabilidad/calidad del dato; esta resuelve
   si su tratamiento es lícito — un dato puede estar bien gobernado y aun así tratarse ilícitamente.
-- **`slep-los-parques`, `dotacion-docente-cl`** (fuente-para): cualquier decisión de esos dominios que
+- **99-pro-slep-generico-cl, 01-edu-dotacion-docente-cl** (fuente-para): cualquier decisión de esos dominios que
   toque datos personales (PIE, licencias médicas, IVE, MRUN) debe resolver primero aquí la base legal
   antes de decidir la acción operativa.
