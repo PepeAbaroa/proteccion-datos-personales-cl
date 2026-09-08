@@ -1,6 +1,6 @@
 ---
 name: proteccion-datos-personales-cl
-description: Experta autónoma y de referencia en protección de datos personales en Chile — cubre de forma integral y versionada la Ley 19.628 original, la reforma de la Ley 21.719 (vigente 1-dic-2026), el texto resultante de la Ley 19.628 modificada, y el Reglamento del Modelo de Prevención de Infracciones (MPI, DTO 662-25/2025 Hacienda). Activa SIEMPRE que se hable de datos personales, privacidad, protección de datos, consentimiento, DPO/delegado de protección de datos, brechas de seguridad/vulneraciones, transferencia internacional de datos, datos sensibles, RAT, EIPD, MPI, Agencia de Protección de Datos, o cualquier duda normativa de fondo sobre esta materia en cualquier proyecto — es la base de referencia legal del trabajo, no solo de SLEP. Es la fuente de interpretación verificada artículo por artículo. Genera además documentos de cumplimiento (política de privacidad, RAT, DPA, EIPD, consentimiento) vía `plantillas/`. **NO activa para** controles técnicos de seguridad — usar `infraestructura-ciberseguridad`; **NO activa para** derecho chileno fuera de esta materia — usar `derecho-chileno-general` o `administracion-publica-phd` (sector público).
+description: Experta autónoma y de referencia en protección de datos personales en Chile — cubre de forma integral y versionada la Ley 19.628 original, la reforma de la Ley 21.719 (vigente 1-dic-2026), el texto resultante de la Ley 19.628 modificada, y el Reglamento del Modelo de Prevención de Infracciones (MPI, DTO 662-25/2025 Hacienda). Activa SIEMPRE que se hable de datos personales, privacidad, protección de datos, consentimiento, DPO/delegado de protección de datos, brechas de seguridad/vulneraciones, transferencia internacional de datos, datos sensibles, RAT, EIPD, MPI, Agencia de Protección de Datos, o cualquier duda normativa de fondo sobre esta materia en cualquier proyecto — es la base de referencia legal del trabajo, no solo de SLEP. Es la fuente de interpretación verificada artículo por artículo. Genera además documentos de cumplimiento (política de privacidad, RAT, DPA, EIPD, consentimiento) vía `plantillas/`. **NO activa para** controles técnicos de seguridad — usar `infraestructura-ciberseguridad`; **NO activa para** derecho chileno fuera de esta materia — usar `administracion-publica-phd` (sector público).
 ---
 
 # Protección de Datos Personales (Chile) — experta autónoma
@@ -87,7 +87,6 @@ la 19.628 ya modificada.
 | Generar un documento de cumplimiento (política, RAT, DPA, EIPD, consentimiento) | `plantillas/ley-21719/templates/` — usar la cita de artículo ya verificada arriba, no reinterpretar la ley al redactar |
 | Controles técnicos de seguridad (cifrado, IAM, logging, respuesta a incidentes técnica) | skill `infraestructura-ciberseguridad` — esta skill le da el artículo que exige el control (ej. Art. 14 quinquies), esa skill traduce a control técnico concreto |
 | Ley 21.595 (delitos económicos / modelo de prevención penal) | skill `gobierno-corporativo-compliance-cl` (no es esta ley) |
-| Derecho chileno fuera de esta materia (civil, laboral privado, comercial) | skill `derecho-chileno-general` |
 | Clasificación/gobernanza documental interna | skill `data-governance` |
 
 ## Reglas de oro
@@ -183,8 +182,6 @@ Pendiente futuro no bloqueante: si la Agencia dicta las instrucciones generales 
   (Ley 21.595/20.393), no datos personales — derivar ahí si la consulta es sobre MPD, no MPI.
 - **`infraestructura-ciberseguridad`** (complementa): esta skill identifica QUÉ obligación legal de
   seguridad aplica (ej. Art. 14 quinquies); esa skill traduce a control técnico concreto (cifrado, IAM).
-- **`derecho-chileno-general`** (complementa): deriva aquí cuando la consulta es específicamente datos
-  personales; esta skill deriva allá si la pregunta se sale de esta materia (civil, laboral, comercial).
 - **`data-governance`** (complementa): esa skill resuelve confiabilidad/calidad del dato; esta resuelve
   si su tratamiento es lícito — un dato puede estar bien gobernado y aun así tratarse ilícitamente.
 - **`slep-los-parques`, `dotacion-docente-cl`** (fuente-para): cualquier decisión de esos dominios que
