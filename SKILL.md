@@ -83,6 +83,7 @@ la 19.628 ya modificada.
 | Necesito releer el texto legal íntegro sin el filtro de esta skill | `sources/especifico/ley-21719-texto.txt`, `sources/especifico/reglamento-mpi-dto662-25-texto.txt` o `sources/especifico/ley-19628-original-texto.txt` (grep `Artículo N`) |
 | Privacidad desde el diseño (Art. 14 quáter) o accountability/responsabilidad (Art. 3 letra e) cruzados con NIST/ISO/doctrina | `references/complementario/privacy-by-design-accountability.md` |
 | Criterios para armar/justificar un RAT, una EIPD/PIA o un MPI — qué debe contener cada uno, cómo llenarlo | `references/complementario/criterios-rat-eipd-mpi.md` |
+| Vocabulario/taxonomía para clasificar qué dato es, para qué se usa y de quién es (Fideslang) al poblar un RAT | `references/complementario/fideslang-taxonomia-clasificacion.md` |
 | Otro cruce con doctrina/estándares (Diplomado U. Chile, ISO 27001/27701/29100, NIST Privacy Framework/AI RMF) no cubierto en los dos archivos de arriba | `sources/complementario/*.pdf.extracto/INDICE.md` (cargar el índice del documento relevante, nunca todo el corpus) |
 | Generar un documento de cumplimiento (política, RAT, DPA, EIPD, consentimiento) | `plantillas/ley-21719/templates/` — usar la cita de artículo ya verificada arriba, no reinterpretar la ley al redactar |
 | Controles técnicos de seguridad (cifrado, IAM, logging, respuesta a incidentes técnica) | skill `infraestructura-ciberseguridad` — esta skill le da el artículo que exige el control (ej. Art. 14 quinquies), esa skill traduce a control técnico concreto |
@@ -140,7 +141,7 @@ la 19.628 ya modificada.
   modelo de transferencia internacional, vigencia **transitoria** hasta que la Agencia dicte su propia
   norma (Art. 28 inciso 2°). Ver `references/especifico/clausulas-modelo-transferencia-internacional.md`.
 
-## Fuentes — capa complementaria (poblada 2026-09-08, íntegra y chunkeada — 16 documentos)
+## Fuentes — capa complementaria (poblada 2026-09-08, íntegra y chunkeada — 17 documentos)
 `sources/complementario/` — cada PDF extraído completo con `doc_full_extract.py` (INDICE.md + chunks,
 integridad verificada, nada resumido):
 - Doctrina Diplomado U. Chile: `mod01.01-gobierno-corporativo-proteccion-datos`,
@@ -159,6 +160,9 @@ integridad verificada, nada resumido):
   Ley 19.628/21.719, y se cita siempre marcado como "complementariamente, según AEPD..." después de
   la base legal chilena, nunca antes ni mezclado).
 - Propios, ya en `.md` sin extracción: `crosswalk-ley21663-ciberseguridad.md`, `crosswalk-iso27001-27701.md`.
+- Vocabulario de ingeniería de privacidad (no PDF, doc web): `fideslang-docs-selectas.txt` (Fideslang,
+  IABTechLab/fideslang + Ethyca, taxonomía de clasificación de datos, agregado 2026-09-08 — ver
+  `references/complementario/fideslang-taxonomia-clasificacion.md`).
 
 `references/complementario/` — 2 archivos de cruce ya construidos (ver tabla de decisión arriba); el
 resto del corpus complementario se consulta bajo demanda vía `INDICE.md` de cada `.extracto/`, no se
@@ -190,6 +194,9 @@ Pendiente futuro no bloqueante: si la Agencia dicta las instrucciones generales 
   seguridad aplica (ej. Art. 14 quinquies); esa skill traduce a control técnico concreto (cifrado, IAM).
 - **`data-governance`** (complementa): esa skill resuelve confiabilidad/calidad del dato; esta resuelve
   si su tratamiento es lícito — un dato puede estar bien gobernado y aun así tratarse ilícitamente.
+- **04-tyb-db-architect** (deriva-a): esta skill clasifica el dato (Fideslang, ver
+  `fideslang-taxonomia-clasificacion.md`) y dice qué obligación legal de protección aplica; esa skill
+  implementa la técnica concreta de anonimización/enmascaramiento sobre ese dato ya clasificado.
 - **99-pro-slep-generico-cl, 01-edu-dotacion-docente-cl** (fuente-para): cualquier decisión de esos dominios que
   toque datos personales (PIE, licencias médicas, IVE, MRUN) debe resolver primero aquí la base legal
   antes de decidir la acción operativa.

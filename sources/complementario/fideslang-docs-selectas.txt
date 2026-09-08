@@ -1,0 +1,88 @@
+FUENTE: Fideslang (Fides Language) — taxonomía de privacidad open source
+Origen: Ethyca (creador original); repo también publicado bajo IABTechLab/fideslang
+URLs verificadas 2026-09-08:
+- https://ethyca.github.io/fideslang/ (documentación oficial de la taxonomía)
+- https://ethyca.github.io/fideslang/taxonomy/overview/
+- https://github.com/IABTechLab/fideslang (README, raw.githubusercontent.com/IABTechLab/fideslang/main/README.md)
+- https://ethyca.github.io/fidesops/guides/masking_strategies/ (estrategias de enmascaramiento)
+Licencia: CC BY 4.0.
+Nota de gobernanza (no verificada al 100%): el repo vive hoy bajo el GitHub org IABTechLab, pero el
+README y los badges siguen referenciando a Ethyca como origen — no se pudo confirmar con certeza si es
+transferencia completa de gobernanza o coexistencia/espejo entre ambos.
+
+=== README.md (IABTechLab/fideslang, raw, 2026-09-08) ===
+
+"Fideslang or Fides Language is a privacy taxonomy and working draft of a proposed structure to describe
+data and data processing behaviors as part of a typical software development process. Our hope with
+standardizing this definition publicly with the community is to derive an interoperable standard for
+describing types of data and how they're being used in applications to simplify global privacy
+regulations."
+
+"The taxonomy is currently comprised of three classification groups that are used together to easily
+describe the data types and associated processing behaviors of an entire tech stack; both the
+application processes and any data storage."
+
+"### 1. Data Categories
+Data Categories are labels used to describe the type of data processed by a system. You can assign one
+or more data categories to a field when classifying a system.
+Data Categories are hierarchical with natural inheritance, meaning you can classify data coarsely with a
+high-level category (e.g. `user.contact` data), or you can classify it with greater precision using
+subclasses (e.g. `user.contact.email` data)."
+
+"### 2. Data Use Categories
+Data Use Categories are labels that describe how, or for what purpose(s) a component of your system is
+using data. Similar to data categories, you can assign one or multiple Data Use Categories to a system.
+Data Use Categories are also hierarchical with natural inheritance, meaning you can easily describe what
+you're using data for either coarsely (e.g. `provide.service.operations`) or with more precision using
+subclasses (e.g. `provide.service.operations.support.optimization`)."
+
+"### 3. Data Subject Categories
+\"Data Subject\" is a label commonly used in the regulatory world to describe the users of a system whose
+data is being processed. In many systems a generic user label may be sufficient, however the Privacy
+Taxonomy is intended to provide greater control through specificity where needed.
+Examples of a Data Subject are:
+- `anonymous_user`
+- `employee`
+- `customer`
+- `patient`
+- `next_of_kin`"
+
+"### Extensibility & Interoperability
+The taxonomy is designed to support common privacy compliance regulations and standards out of the box,
+these include GDPR, CCPA, LGPD and ISO 19944.
+You can extend the taxonomy to support your system needs. If you do this, we recommend extending from the
+existing class structures to ensure interoperability inside and outside your organization."
+
+=== Nota de versión — Data Qualifiers eliminados ===
+
+Vía búsqueda web (release notes IABTechLab/fideslang, PR #186): "Fideslang 3.0 removed data qualifier and
+registry concepts, as well as deprecated attributes on Data Use, System, and Dataset." Cambio de
+diciembre de 2023. Confirmado indirectamente por la documentación viva de la API de Ethyca
+(ethyca.com/docs/dev-docs/api/manage/data_qualifier), que aparece en resultados de búsqueda como artefacto
+de una versión anterior de la API, no como parte de la taxonomía vigente en el README actual.
+CONCLUSIÓN: la taxonomía vigente (2026) tiene 3 grupos, no 4. No citar "Data Qualifiers" como vigente.
+
+=== Fidesops — estrategias de enmascaramiento (masking_strategies) ===
+URL: https://ethyca.github.io/fidesops/guides/masking_strategies/ (verificado 2026-09-08)
+
+"1. Null Rewrite — Masks the input value with a null value. No configuration required."
+
+"2. String Rewrite — Masks the input value with a default string value. Config: `rewrite_value`
+(replacement string), optional `format_preservation.suffix`."
+
+"3. Hash — Masks the data by hashing the input before returning it. Deterministic within a privacy
+request context. Config: `algorithm` (SHA-512 or SHA-256, default SHA-256), optional suffix."
+
+"4. Random String Rewrite — Masks the input value with a random string of a specified length. Config:
+`length` (default 30), optional `format_preservation.suffix`."
+
+"5. AES Encrypt — Masks the data using AES encryption before returning it. Deterministic within request
+context only. Config: `mode` (GCM default), optional suffix."
+
+"6. HMAC — Masks the data using HMAC before returning it. Deterministic within privacy request context.
+Config: `algorithm` (SHA-512/SHA-256, default SHA-256), optional suffix."
+
+Nota metodológica: la documentación de fidesops NO especifica una regla automática de "qué Data Category
+usa qué estrategia de masking" — la elección de estrategia depende de la política de la organización, no
+de un mapeo fijo de la taxonomía. Cualquier mapeo Categoría→Estrategia en las references de esta skill es
+razonamiento aplicado propio, no texto literal de Ethyca/Fidesops.
