@@ -140,7 +140,7 @@ la 19.628 ya modificada.
   modelo de transferencia internacional, vigencia **transitoria** hasta que la Agencia dicte su propia
   norma (Art. 28 inciso 2°). Ver `references/especifico/clausulas-modelo-transferencia-internacional.md`.
 
-## Fuentes — capa complementaria (poblada 2026-09-08, íntegra y chunkeada — 15 documentos)
+## Fuentes — capa complementaria (poblada 2026-09-08, íntegra y chunkeada — 16 documentos)
 `sources/complementario/` — cada PDF extraído completo con `doc_full_extract.py` (INDICE.md + chunks,
 integridad verificada, nada resumido):
 - Doctrina Diplomado U. Chile: `mod01.01-gobierno-corporativo-proteccion-datos`,
@@ -151,7 +151,13 @@ integridad verificada, nada resumido):
 - Estándares ya adquiridos por Pepe: `nist-privacy-framework-1.1`, `iso-iec-29100-2024`,
   `iso-iec-27701-2025`, `iso-27001-2022-es`.
 - Descargado esta sesión (gratuito, oficial): `nist-ai-rmf-100-1` (nist.gov).
-- Privacidad + IA: `intersection-privacy-ai-governance`, `managing-data-privacy-risk-advanced-analytics`.
+- Privacidad + IA: `intersection-privacy-ai-governance`, `managing-data-privacy-risk-advanced-analytics`,
+  `aepd-exactitud-calidad-datos-ia-2026` (Agencia Española de Protección de Datos, 2026, 23 págs. —
+  doctrina de un regulador extranjero sobre exactitud/minimización del RGPD aplicado a IA; útil para
+  el cruce en `## Fuentes` de cualquier respuesta que compare el principio de exactitud/calidad de
+  datos chileno con un enfoque comparado, pero NUNCA como fuente de la ley chilena — es RGPD, no
+  Ley 19.628/21.719, y se cita siempre marcado como "complementariamente, según AEPD..." después de
+  la base legal chilena, nunca antes ni mezclado).
 - Propios, ya en `.md` sin extracción: `crosswalk-ley21663-ciberseguridad.md`, `crosswalk-iso27001-27701.md`.
 
 `references/complementario/` — 2 archivos de cruce ya construidos (ver tabla de decisión arriba); el
