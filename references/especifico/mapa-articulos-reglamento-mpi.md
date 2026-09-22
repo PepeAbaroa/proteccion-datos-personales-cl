@@ -91,6 +91,24 @@ transferencias internacionales. La letra (i) exige protección al denunciante in
 equivalente funcional a un canal de whistleblowing de compliance penal (Ley 21.595), aplicable aquí a
 infracciones de datos personales.
 
+**Tabla de referencia rápida — qué instrumento corresponde a qué letra del Art. 3** (agregada tras un
+error real: un cruce normativo construido para un informe citó c) para el RAT, d) para la matriz de
+riesgo, f) para el reporte de incidentes e f-g) para el canal de denuncia — todas incorrectas. Verificar
+siempre contra esta tabla, no de memoria, antes de citar el Art. 3 por letra en cualquier documento:
+
+| Letra | Instrumento |
+|---|---|
+| a) | Individualización del responsable de datos y representante legal |
+| b) | Designación del delegado de protección de datos |
+| c) | Medios y facultades del delegado |
+| d) | Caracterización de datos/tratamientos — **Registro de Actividades de Tratamiento (RAT)** |
+| e) | Identificación de actividades de riesgo — **matriz de riesgo** |
+| f) | Protocolos, reglas y procedimientos específicos |
+| g) | Mecanismos de reporte interno y a la Agencia (Art. 14 sexies) — **plan de respuesta a incidentes** |
+| h) | Sanciones administrativas internas |
+| i) | Mecanismos de denuncia interna con reserva de identidad — **canal de denuncia** |
+| j) | Otras disposiciones necesarias o útiles |
+
 ### Artículo 4 — Regulación interna
 > **TEXTO LITERAL** (Art. 4, líneas 230-238)
 > "Regulación interna. La regulación interna a que dé lugar la implementación del programa [...] deberá

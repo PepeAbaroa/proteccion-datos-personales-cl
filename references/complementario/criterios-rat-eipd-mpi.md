@@ -34,6 +34,18 @@
 capacitación, gestión de brechas): sin RAT actualizado no se puede saber qué tratamientos requieren EIPD
 (§2) ni qué política de transparencia publicar (Art. 14 ter).
 
+> **COMPLEMENTARIO — patrón de producto observado** (MitigaData, demo grabada 2026-09-10, presentada por
+> José Lagos Melo/cybertrust.cl; NO es doctrina ni norma, es una observación de diseño de un software de
+> mercado — ver `04_mercado_benchmark/analisis_video_mitigadata_demo_cybertrust.md` del proyecto
+> ProteccionDatos-CL): cada campo del formulario de RAT cita en su propio label el artículo exacto que lo
+> exige (ej. "Medidas de Seguridad * (Arts. 34 bis-quáter / Dto 662 art. 3 letra f)"), y el tratamiento no
+> se registra "suelto" — cuelga de una jerarquía Organización → Macroproceso → Proceso → Subproceso →
+> Procedimiento → Responsable. Vale la pena replicar ambos patrones en cualquier plantilla propia (Excel/
+> Word/PowerApps): la cita en el campo mismo (no solo en un anexo) reduce el error de "no sé por qué pido
+> este dato", y la jerarquía de procesos evita que el RAT se construya como una lista plana sin dueño claro
+> por proceso — coherente con lo que ya exige el Reglamento Art. 3 letra d) sub-elemento i (a qué proceso
+> de negocio pertenece el tratamiento).
+
 ## 2. EIPD / PIA (Evaluación de Impacto en Protección de Datos)
 
 **Cuándo es obligatoria por ley — Art. 15 ter (4 supuestos, cita completa en `mapa-articulos-ley21719.md`):**
@@ -76,6 +88,20 @@ perfecto".
 Chile no publique la suya, pero **nunca se cita como si fuera la norma chilena** — cualquier EIPD real
 para un SLEP debe fundarse en el Art. 15 ter y adaptarse a la terminología y bases de licitud de la ley
 19.628 modificada, no copiar artículos GDPR.
+
+> **COMPLEMENTARIO — patrón de producto observado** (MitigaData, demo 2026-09-10, ver
+> `04_mercado_benchmark/analisis_video_mitigadata_demo_cybertrust.md`; observación de diseño, no doctrina):
+> cada riesgo de la EIPD se redacta como **causa → efecto**, no como una sola frase (ej. causa: "phishing";
+> efecto: exposición de datos de marketing), sobre un tipo fijo (Confidencialidad/Integridad/
+> Disponibilidad — la tríada CIA), y con escala de severidad explícita y visible (Bajo 1-3 / Medio 4-7 /
+> Alto 8-14 / Muy Alto 15-25 = probabilidad × impacto), calculada por separado para riesgo **inherente** y
+> **residual**. El cierre de la EIPD exige un campo de "Conclusiones del Delegado de Protección de Datos"
+> citando expresamente el Art. 50 de la ley — es decir, el producto fuerza que ninguna EIPD quede "abierta"
+> sin una conclusión firmada por el delegado. Aplicado a esta skill: el formato causa→efecto es una mejora
+> de redacción útil para cualquier EIPD propia (fuerza a separar "qué podría pasar" de "por qué podría
+> pasar", evitando el riesgo mal redactado como una sola frase vaga), y la exigencia de conclusión firmada
+> por el DPO es coherente con la función g)/h) del Art. 13 del Reglamento (asesorar en identificación de
+> riesgos y en EIPD) — sin necesidad de copiar el software, solo el hábito de cierre documental.
 
 ## 3. Matriz de riesgo de infracción (Reglamento MPI Art. 3 letra e)
 
@@ -142,6 +168,19 @@ repite aquí. Resumen de las piezas que dependen de lo ya construido en §1-3:
 MPI sea voluntario (Art. 49, ya establecido en `mapa-articulos-ley21719.md`), los mismos 5 instrumentos
 sirven como evidencia de diligencia debida (Art. 36 N°5, atenuante) incluso sin certificación formal — no
 se pierde el trabajo si finalmente no se certifica.
+
+> **COMPLEMENTARIO — patrón de producto observado** (MitigaData, demo 2026-09-10, ver
+> `04_mercado_benchmark/analisis_video_mitigadata_demo_cybertrust.md`; observación de diseño, no doctrina):
+> dos patrones de implementación replicables sin necesidad de software: (1) **checklist de madurez con %
+> de avance por cada letra del Art. 3 del Reglamento** (ej. "Responsable y Representante Legal: 100%,
+> Delegado de Protección de Datos: 0%, Matriz de Riesgos: pendiente..." con un % de madurez global) — es
+> la forma más directa de convertir el mapeo de `mapa-articulos-reglamento-mpi.md` en un tablero de avance
+> por cliente, replicable en una hoja de control simple; (2) **registro de trazabilidad transversal**
+> (quién hizo qué, cuándo, sobre qué instrumento — login, creación/edición de RAT o EIPD, solicitudes
+> ARCO+) independiente de los 5 instrumentos sustantivos. Este segundo patrón es el que más directamente
+> sostiene la evidencia de diligencia debida del Art. 36 N°5: un RAT/EIPD "completo" sin registro de cuándo
+> y por quién se construyó o actualizó es más débil como prueba de accountability ante la Agencia que uno
+> que sí lo tiene — aunque sea una bitácora simple (fecha, autor, instrumento, acción), no un software.
 
 ## Grafo
 Depende de `mapa-articulos-ley21719.md` (Arts. 3, 14 ter, 15 ter, 34 bis-quáter, 36, 49-51),

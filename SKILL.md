@@ -22,8 +22,11 @@ solo necesita abrir `references/especifico/` cuando el paso exige precisión lit
 1. **Fijar el hecho concreto**: qué dato, de quién (titular), tratado por quién (responsable/encargado —
    Art. 2 letras n/x), cuándo. Sin esto, cualquier análisis posterior es especulativo.
 2. **Fijar el régimen temporal**: ¿el hecho ocurre antes o después del 1-dic-2026? ¿corresponde citar la
-   21.719 como modificatoria histórica o la 19.628 ya modificada (texto operativo)? El Reglamento MPI ya
-   rige desde jun-2025, independiente de la fecha de vigencia de la ley.
+   21.719 como modificatoria histórica o la 19.628 ya modificada (texto operativo)? El Reglamento MPI fue
+   **firmado/dictado el 13-jun-2025** (Hacienda), pero **NO estuvo vigente desde entonces** — recién
+   completó toma de razón en Contraloría el 28-ago-2026 y se publicó en el Diario Oficial el 9-sep-2026;
+   **entra en vigencia junto con la ley, el 1-dic-2026**, no antes (corregido 2026-09-12, verificado vía
+   WebSearch contra az.cl/ontier.law/esghoy.cl — el error previo confundía fecha de firma con vigencia).
 3. **Clasificar el dato**: ¿es dato personal (Art. 2 f)? ¿es sensible (Art. 2 g — incluye situación
    socioeconómica y salud, categorías que la práctica suele subestimar)? ¿es de niño/niña (<14) o
    adolescente (14-17, Art. 16 quáter)?
@@ -66,9 +69,10 @@ nunca decide por sí solo.
 3. **Ley 19.628 modificada** — el texto operativo vigente desde el **1 de diciembre de 2026**. Casi
    toda cita sustantiva de aquí en adelante es a esta versión, no a "la 21.719" como si fuera su propio
    articulado autónomo.
-4. **Reglamento MPI (DTO 662-25/2025 Hacienda)** — ya vigente (dictado jun-2025, antes que la ley),
-   desarrolla exclusivamente el Modelo de Prevención de Infracciones y la figura del DPO dentro de ese
-   marco.
+4. **Reglamento MPI (DTO 662-25/2025 Hacienda)** — firmado 13-jun-2025, toma de razón en Contraloría
+   28-ago-2026, publicado en el Diario Oficial 9-sep-2026, **entra en vigencia el 1-dic-2026 (junto con
+   la ley, NO antes)**. Desarrolla exclusivamente el Modelo de Prevención de Infracciones y la figura del
+   DPO dentro de ese marco.
 
 **Toda respuesta jurídica debe indicar, si es relevante para la tarea:** fecha del hecho/tratamiento,
 si la regla citada ya rige o entra a regir el 1-dic-2026, y si se cita la 21.719 como modificatoria o
@@ -98,7 +102,9 @@ la 19.628 ya modificada.
 2. La Ley 21.719 **modifica la Ley 19.628** — casi todo el articulado operativo (Arts. 1-55 con sufijos
    bis/ter/quáter/quinquies/sexies/septies) es, tras la modificación, texto de la **Ley 19.628**. No
    confundir "artículo de la Ley 21.719" con "artículo de la Ley 19.628 que 21.719 modifica" al citar.
-3. Vigencia: **1 de diciembre de 2026**. Reglamento MPI ya vigente (dictado jun-2025, antes de la ley).
+3. Vigencia: **1 de diciembre de 2026** para la ley y el Reglamento MPI por igual. El Reglamento fue
+   firmado 13-jun-2025 pero solo completó toma de razón en Contraloría el 28-ago-2026 (publicado Diario
+   Oficial 9-sep-2026) — no estuvo vigente antes de esa fecha, y no rige en la práctica hasta 1-dic-2026.
 4. **DPO/MPI — cuatro planos distintos, no uno solo (verificado contra Arts. 6-8 del Reglamento):**
    - **Cumplimiento material de la Ley 19.628**: obligatorio siempre, exista o no DPO/MPI.
    - **Función interna de privacidad** (sin designación reglamentaria): un responsable/coordinador de
@@ -145,12 +151,20 @@ la 19.628 ya modificada.
 `sources/complementario/` — cada PDF extraído completo con `doc_full_extract.py` (INDICE.md + chunks,
 integridad verificada, nada resumido):
 - Doctrina Diplomado U. Chile: `mod01.01-gobierno-corporativo-proteccion-datos`,
-  `mod01.03-gobernabilidad-accountability`, `mod01.04-cultura-organizacional-etica`,
+  `mod01.02-normativas-iso` (Clase 2, José Lagos Melo — gobernabilidad/roles de privacidad, Ley
+  21.719 vs. 21.663, ISO 27001/27701/29100 con anexo de controles y caso de negocio aplicado,
+  agregado 2026-09-08), `mod01.03-gobernabilidad-accountability`, `mod01.04-cultura-organizacional-etica`,
   `libro-informes-comision-asesora-datos`, `el-rol-del-dpo`, `libro-blanco-del-dpo`,
   `data-privacy-principios`, `dpia-template-referencia` (template EDPB, agregado 2026-09-08 al detectar
   el hueco para §2 de `criterios-rat-eipd-mpi.md` — no estaba en la lista original propuesta).
 - Estándares ya adquiridos por Pepe: `nist-privacy-framework-1.1`, `iso-iec-29100-2024`,
-  `iso-iec-27701-2025`, `iso-27001-2022-es`.
+  `iso-iec-27701-2025` (Segunda Edición 2025-10 — con OCR aplicado 2026-09-14, ahora extraíble y
+  verificada íntegra, 72 páginas; ver `crosswalk-iso27001-27701.md` para la estructura de cláusulas
+  correcta de esta edición, distinta de la 2019 que se asumía antes),
+  `iso-27001-2022-es` (copia parcial de vista previa, solo 13 de 93 controles legibles — **superada**
+  2026-09-14 por `nch-iso-27001-2023-oficial-es` e `iso-27001-2022-oficial-en`, ambas con el Anexo A
+  completo e íntegro, extraídas y verificadas — usar estas dos para cualquier cita de control ISO
+  27001 de aquí en adelante, no la copia parcial).
 - Descargado esta sesión (gratuito, oficial): `nist-ai-rmf-100-1` (nist.gov).
 - Privacidad + IA: `intersection-privacy-ai-governance`, `managing-data-privacy-risk-advanced-analytics`,
   `aepd-exactitud-calidad-datos-ia-2026` (Agencia Española de Protección de Datos, 2026, 23 págs. —
