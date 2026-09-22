@@ -38,8 +38,14 @@ esta plantilla lo incluía por error, no está en el texto de la ley. Corregido 
 → Si NO marcaste ninguno (ni el nivel 1 ni el nivel 2): documenta aquí por qué el tratamiento NO es de
 alto riesgo y archiva. Si marcaste alguno: completa el resto.
 
-→ **Profundidad, no obligación:** la ley no fija un formato único de EIPD — solo el contenido mínimo
-(inciso 3°, sección 1-4 abajo). Para tratamientos rutinarios y de riesgo bajo/medio (ej. licencias
+→ **Profundidad, no obligación:** la ley no fija un formato de EIPD. El inciso 3° encarga a la Agencia
+publicar una lista orientativa y "orientaciones mínimas" para realizarla, "considerando a lo menos" la
+descripción de las operaciones de tratamiento, su finalidad, la evaluación de la necesidad y la
+proporcionalidad, y la evaluación de los riesgos y medidas de mitigación (secciones 1-4 abajo). Mientras
+la Agencia no las publique, esos elementos son la referencia; cuando las publique, ajustar esta
+plantilla. (Corregido 2026-09-22: antes decía que la ley fija un "contenido mínimo" — el inciso 3° no
+impone contenido al responsable, fija los criterios de las orientaciones de la Agencia.) Para
+tratamientos rutinarios y de riesgo bajo/medio (ej. licencias
 médicas), una EIPD abreviada con esas mismas 4 secciones, en 1-2 páginas, es válida — no hace falta el
 mismo nivel de detalle que un sistema de perfilado de riesgo alto.
 
@@ -63,8 +69,13 @@ Por cada riesgo alto: control técnico u organizativo que lo reduce (cifrado, mi
 seudonimización, intervención humana en decisiones automatizadas, etc.).
 
 ## 5. Conclusión
-Riesgo residual aceptable: [sí/no]. Si queda alto pese a las medidas, la ley contempla **consulta previa
-a la Agencia** antes de iniciar el tratamiento.
+Riesgo residual aceptable: [sí/no]. Si la evaluación demuestra alto riesgo, el responsable **podrá
+consultar** a la Agencia para obtener recomendaciones (Art. 15 ter, inciso 4°: "Los responsables podrán
+consultar a la Agencia de Protección de Datos Personales, cuando en virtud del resultado de la
+evaluación, el tratamiento demuestre ser de alto riesgo a efectos de obtener recomendaciones de parte de
+dicha entidad."). Es **facultativa** y no es una autorización previa: la ley no condiciona el inicio del
+tratamiento a esa consulta. (Corregido 2026-09-22: antes decía "consulta previa a la Agencia antes de
+iniciar el tratamiento", importado del modelo RGPD Art. 36, que sí la exige.)
 
 ---
-*Borrador generado con compliance-cl (pack ley-21719). No constituye asesoría legal; revisar con un abogado.*
+*Borrador generado con proteccion-datos-personales-cl (plantillas/ley-21719). No constituye asesoría legal; revisar con un abogado.*
