@@ -19,6 +19,9 @@
 |---|---|---|
 | i. Tipo de dato, ¿incluye sensibles? | Revisar contra Art. 2 letra g) — situación socioeconómica y salud SON sensibles aunque no lo parezcan en la práctica | Subclasificar como "dato común" un dato que la ley ya define como sensible |
 | ii. Ámbito territorial | ¿El proveedor/servidor está fuera de Chile? Si sí, dispara Título V | Omitir el ámbito cuando el proveedor es cloud extranjero |
+| iii. Categorías, clases o tipos de bases de datos | ¿En qué sistema/base concreta vive el dato (nómina, plataforma académica, correo, planilla suelta)? ¿Es una base estructurada o un repositorio informal (ej. Excel compartido)? | *(criterio propio, no verificado como hallazgo de terceros)* Tratar "la base de datos" como un concepto abstracto único de la organización, sin inventariar las bases reales y dispersas donde el dato efectivamente reside — deja huecos de bases "informales" fuera del RAT |
+| iv. Categorías de titulares | ¿Quiénes son las personas cuyos datos se tratan en esta actividad — estudiantes, apoderados, funcionarios, postulantes, terceros proveedores? ¿Incluye titulares en situación de vulnerabilidad (NNA)? | *(criterio propio, no verificado como hallazgo de terceros)* Agrupar titulares distintos bajo una sola categoría genérica ("usuarios") cuando tienen bases de licitud o riesgos distintos (ej. mezclar estudiantes menores de edad con apoderados adultos en la misma fila) |
+| v. Fines de las operaciones de tratamiento | ¿Para qué específicamente se trata este dato — no el propósito general del sistema, sino el fin de cada operación (recolección, uso, comunicación)? | *(criterio propio, no verificado como hallazgo de terceros)* Redactar un fin demasiado amplio o genérico ("gestión académica") que en la práctica cubre finalidades distintas con bases de licitud distintas — ver observación de producto más abajo sobre pedir el fin a nivel de cada dato, no solo del tratamiento completo |
 | vi. Fuente de los datos | ¿Es de acceso público (Art. 2 letra i)? Si sí, igual se somete a la ley | Asumir que "público" = "sin restricción" |
 | vii. Base de licitud | ¿Cuál de las 5 del Art. 13, o el Art. 20 si es órgano público? | Poner "consentimiento" quando en realidad hay obligación legal (complica revocación futura) |
 | viii-ix. Terceros y transferencias internacionales | ¿Hay cesión (Art. 15) o encargo (Art. 15 bis)? ¿Hay transferencia internacional (Art. 27)? | Confundir cesión con encargo — cambia el régimen de responsabilidad |
@@ -40,11 +43,21 @@ capacitación, gestión de brechas): sin RAT actualizado no se puede saber qué 
 > ProteccionDatos-CL): cada campo del formulario de RAT cita en su propio label el artículo exacto que lo
 > exige (ej. "Medidas de Seguridad * (Arts. 34 bis-quáter / Dto 662 art. 3 letra f)"), y el tratamiento no
 > se registra "suelto" — cuelga de una jerarquía Organización → Macroproceso → Proceso → Subproceso →
-> Procedimiento → Responsable. Vale la pena replicar ambos patrones en cualquier plantilla propia (Excel/
+> Procedimiento → Responsable. Adicionalmente (sección "2.bis" del mismo archivo, orden de campo
+> verificado contra la transcripción completa de audio de la demo): dentro de la categoría de datos
+> personales, el formulario pide **el dato específico** (ej. "email") junto con su **propósito puntual**
+> (ej. "para gestionar el contrato") — es decir, el campo de fin/propósito se solicita a nivel de CADA
+> dato específico, no solo una vez a nivel del tratamiento completo. Esto es un matiz práctico útil para
+> el romano v) del Art. 3 letra d) del Reglamento MPI ("los fines de las operaciones de tratamiento"): la
+> ley exige el fin de la operación de tratamiento en general, y el producto observado va un nivel más
+> granular anclándolo a cada dato — no es un requisito legal adicional, es una práctica de diseño que
+> ayuda a detectar finalidades mezcladas dentro de un mismo tratamiento (ver fila v de la tabla más
+> arriba). Vale la pena replicar los tres patrones en cualquier plantilla propia (Excel/
 > Word/PowerApps): la cita en el campo mismo (no solo en un anexo) reduce el error de "no sé por qué pido
-> este dato", y la jerarquía de procesos evita que el RAT se construya como una lista plana sin dueño claro
+> este dato", la jerarquía de procesos evita que el RAT se construya como una lista plana sin dueño claro
 > por proceso — coherente con lo que ya exige el Reglamento Art. 3 letra d) sub-elemento i (a qué proceso
-> de negocio pertenece el tratamiento).
+> de negocio pertenece el tratamiento) —, y el propósito por dato específico agrega granularidad útil
+> (no obligatoria) sobre el mínimo legal del romano v).
 
 ## 2. EIPD / PIA (Evaluación de Impacto en Protección de Datos)
 
