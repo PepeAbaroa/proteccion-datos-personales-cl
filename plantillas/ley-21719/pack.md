@@ -24,7 +24,7 @@
   seudonimización. **Brechas (Art. 14 sexies):** reportar **sin dilaciones indebidas** (NO 72h),
   registrar las vulneraciones, avisar a titulares si riesgo alto o si afecta datos sensibles/
   económicos/financieros/niños.
-- **Datos sensibles (Art. 16):** consentimiento expreso y reforzado.
+- **Datos sensibles (Art. 16):** consentimiento expreso (Art. 16 inc. 1°); salud y perfil biológico con régimen propio (Art. 16 bis), biométricos con deber de información específico (Art. 16 ter).
 - **DPO:** voluntario para todo responsable, público o privado, sin excepción por tipo de organismo ni
   por escala de tratamiento (Art. 49-50 Ley 19.628 modificada) — obligatorio solo si se adopta el MPI.
   Si un órgano público lo designa, debe ser funcionario de la dotación vigente (Art. 7 inciso 2°

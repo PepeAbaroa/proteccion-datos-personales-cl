@@ -1,6 +1,6 @@
 # Consentimiento y avisos en el punto de captura — [RAZÓN SOCIAL]
 
-> Art. 12 de la Ley 21.719: el consentimiento debe ser **previo, libre, específico, informado e
+> Art. 12 de la Ley 19.628 (modificada por Ley 21.719): el consentimiento debe ser **previo, libre, específico, informado e
 > inequívoco**, mediante un **acto afirmativo** (casilla NO premarcada), y **revocable** por un medio
 > expedito, gratuito y permanente. Estos textos van en tus formularios/landing.
 
@@ -16,7 +16,7 @@
 Si además quieres enviar marketing, va **separado** (otro checkbox, no premarcado):
 > ☐ Quiero recibir novedades y ofertas de [RAZÓN SOCIAL] por correo. (Opcional)
 
-## 3. Datos sensibles (Art. 16 — consentimiento reforzado)
+## 3. Datos sensibles (Art. 16 inc. 1° — consentimiento expreso)
 Si captas datos sensibles (salud, etc.), el consentimiento debe ser **expreso** y específico para ese
 dato. No los pidas si no son necesarios para el servicio.
 > ☐ Autorizo expresamente el tratamiento de [dato sensible] para [finalidad], según la Política de Privacidad.

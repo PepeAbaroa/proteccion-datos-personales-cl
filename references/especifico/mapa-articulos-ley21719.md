@@ -325,9 +325,11 @@ internos que solo contemplan el de 30 días.
 > realizado en forma lícita, leal y transparente."
 
 **Razonamiento aplicado:** la carga de la prueba de la licitud recae SIEMPRE en el responsable, nunca en
-el titular — este es el fundamento legal directo de la "carga de la prueba invertida" ya aplicada en el
-ejemplo del teléfono del director (ver `sources/complementario` pendiente de validación,
-`02_casos_referencia/21_caso_compuesto.md`). La presunción de consentimiento viciado en contratos de
+el titular — este es el fundamento legal directo de la "carga de la prueba invertida" para un
+**responsable privado**. En un órgano público (como el SLEP del ejemplo del teléfono del director,
+`02_casos_referencia/21_caso_compuesto.md`) este artículo no aplica —el Art. 21 no lo remite—: allí el
+fundamento es el Art. 3° letra a) inc. 2° ("El responsable deberá ser capaz de acreditar la licitud del
+tratamiento"), aplicable por el Art. 21 inc. 1°. La presunción de consentimiento viciado en contratos de
 adhesión es relevante para cualquier formulario de matrícula que pida consentimiento para fines no
 esenciales al servicio educativo.
 
@@ -344,9 +346,10 @@ esenciales al servicio educativo.
 > para la formulación, ejercicio o defensa de un derecho ante los tribunales de justicia u órganos
 > públicos. El responsable deberá acreditar la licitud del tratamiento de datos."
 
-**Razonamiento aplicado:** son 5 bases de licitud alternativas al consentimiento — la base típica de un
-SLEP para tratar datos de alumnos/apoderados es la letra b) (obligación legal, ej. Ley 21.040, normativa
-MINEDUC) o excepcionalmente d) (interés legítimo, con ponderación exigible frente al titular). Elegir la
+**Razonamiento aplicado:** son 5 bases de licitud alternativas al consentimiento. Un SLEP (órgano
+público) no usa el Art. 13: su base es el Art. 20; el Art. 21 no incluye el Art. 13 entre las normas
+aplicables a órganos públicos. El Art. 13 es para responsables privados (un sostenedor particular usa
+típicamente 13 b) o 13 c)). Elegir la
 base correcta desde el inicio (y no "consentimiento" por defecto cuando en realidad hay obligación legal)
 evita la trampa de tener que gestionar revocaciones de consentimiento sobre datos que la ley igual obliga
 a tratar.
@@ -515,11 +518,17 @@ responsabilidad solidaria, solo ordena el reparto interno de responsabilidad.
 > sensibles y especialmente protegidos, en las hipótesis de excepción del consentimiento. La Agencia [...]
 > establecerá y publicará una lista orientativa [...] también establecerá las orientaciones mínimas [...]"
 
-**Razonamiento aplicado:** la EIPD es **obligatoria por ley** (no una buena práctica) en 4 supuestos que
-casi todos ocurren en un SLEP: (a) perfilamiento de alumnos con riesgo de deserción, (b) tratamiento
-masivo (toda la base de matrícula), (c) monitoreo de zona pública (cámaras de establecimiento), (d)
-tratamiento de sensibles sin consentimiento (PIE, salud, situación socioeconómica bajo base legal). Un
-SLEP que no ha hecho ninguna EIPD tiene al menos 3-4 procesos que la exigen desde ya.
+**Razonamiento aplicado:** para un **responsable privado** (sostenedor particular, y también una
+corporación municipal o una entidad de administración delegada de derecho privado) la EIPD es
+**obligatoria por ley** (no una buena práctica) en 4 supuestos frecuentes en educación: (a) perfilamiento
+de alumnos con riesgo de deserción, (b) tratamiento masivo (toda la base de matrícula), (c) monitoreo
+sistemático de zona de acceso público (cámaras que efectivamente cubren espacio abierto al público), (d)
+tratamiento de sensibles sin consentimiento (PIE, salud, situación socioeconómica bajo base legal).
+**Salvedad órgano público:** el Art. 21 inc. 3° no remite el Art. 15 ter, de modo que para un SLEP/DAEM
+la EIPD **no es obligatoria por este artículo**: es buena práctica y el medio más sólido para acreditar
+los deberes de protección desde el diseño y por defecto (Art. 14 quáter) y de seguridad (Art. 14
+quinquies), que sí le son aplicables. Un SLEP que no ha hecho ninguna EIPD tiene al menos 3-4 procesos
+donde es recomendable con prioridad.
 
 ---
 
@@ -541,10 +550,15 @@ SLEP que no ha hecho ninguna EIPD tiene al menos 3-4 procesos que la exigen desd
 
 **Razonamiento aplicado:** para datos sensibles el consentimiento debe ser **expreso** (no basta el
 inequívoco genérico del Art. 12) — declaración escrita, verbal o medio tecnológico equivalente, nunca
-tácito ni por silencio. La letra (f) es la base de licitud típica de un SLEP para tratar PIE/salud/IVE:
-"lo autorice o mandate expresamente la ley" (decretos 170/2009, 83/2015 y normativa JUNAEB), no
-consentimiento del apoderado — importante porque el consentimiento no es revocable respecto de una
-obligación legal.
+tácito ni por silencio. La letra (f) ("lo autorice o mandate expresamente la ley") es la excepción para sensibles **que no son
+de salud** (p. ej. situación socioeconómica/IVE bajo normativa JUNAEB [verificar norma sectorial]). Para
+**datos de salud** (PIE: decretos 170/2009 y 83/2015 [verificar norma sectorial]) no rige esta letra sino
+el **Art. 16 bis**: su inc. 2° es la lista exclusiva de casos sin consentimiento ("Sólo se podrán
+tratar"), cuya letra f) exige que "la ley así lo permita e indique expresamente la finalidad", y su inc.
+3° prohíbe tratar datos de salud recolectados en el ámbito educativo salvo autorización legal expresa en
+casos calificados. En un SLEP la base general sigue siendo el Art. 20, y estas reglas le aplican por el
+Art. 21 (Párrafo 2° del Título II). En ambos casos la base no es el consentimiento del apoderado —
+importante porque el consentimiento es revocable y la obligación legal no.
 
 ### Artículo 16 bis — Datos de salud y perfil biológico
 > **TEXTO LITERAL** (Art. 16 bis, líneas 1259-1325)
@@ -560,10 +574,12 @@ obligación legal.
 > ley expresamente autorice su tratamiento en casos calificados [...]"
 
 **Razonamiento aplicado:** hay una **prohibición reforzada** específica para datos de salud recolectados
-en el ámbito **educativo** (mencionado expresamente en el inciso final) — un colegio no puede tratar/ceder
+en el ámbito **educativo** (mencionado expresamente en el inciso 3°) — un colegio no puede tratar/ceder
 libremente datos de salud de un alumno recolectados en ese contexto salvo que una ley lo autorice
-expresamente en un caso calificado (ej. PIE bajo Decreto 170). Esto es más estricto que la regla general
-de sensibles del Art. 16.
+expresamente en un caso calificado (ej. PIE bajo Decreto 170 [verificar norma sectorial: la excepción
+exige una *ley*]). Esto es más estricto que la regla general de sensibles del Art. 16, y el inc. 2° es
+taxativo: para salud no rigen las excepciones del Art. 16 inc. 2° (p. ej. su letra e, ámbito laboral, ni
+su letra f).
 
 ### Artículo 16 ter — Datos biométricos
 > **TEXTO LITERAL** (Art. 16 ter, líneas 1327-1357)
@@ -577,7 +593,10 @@ de sensibles del Art. 16.
 
 **Razonamiento aplicado:** relevante para cualquier sistema de control de acceso o asistencia por huella
 digital en un establecimiento — exige informar 4 elementos específicos antes de implementar el sistema,
-no basta el aviso genérico de la política de privacidad.
+no basta el aviso genérico de la política de privacidad. La base es el consentimiento **expreso** del Art.
+16 inc. 1° (al que remite el inc. 2°; "consentimiento reforzado" no es un término legal); sin
+consentimiento, solo en los casos del inc. 2° del Art. 16 bis (inc. final del Art. 16 ter) — la excepción
+laboral del Art. 16 letra e) **no** ampara un reloj control biométrico.
 
 ---
 
@@ -684,7 +703,7 @@ régimen.
 boletín comercial. Sin aplicación práctica directa a SLEP por la exclusión del Art. 17, salvo que el
 sostenedor mismo actúe como acreedor de servicios no educacionales (arriendos, concesiones de casino).
 
-**Relevancia indirecta para SLEP/colegio (dato sensible "situación socioeconómica"):** el Art. 12 letra
+**Relevancia indirecta para SLEP/colegio (dato sensible "situación socioeconómica"):** el Art. 13 letra
 a) de esta ley menciona el tratamiento de "situación socioeconómica" "de conformidad con las normas del
 Título III" — pero esa referencia cruzada no desarrolla una regla operativa propia para el uso educativo
 de datos socioeconómicos (SEP, becas, JUNAEB, clasificación prioritario/preferente). No inventar una
@@ -708,7 +727,9 @@ o base legal específica de los programas de subvención), no por el Título III
 consentimiento de apoderados/alumnos para tratar sus datos — la base de licitud por defecto es el
 cumplimiento de función legal, no el consentimiento. Pedir consentimiento igual (como hacen muchos
 formularios de matrícula) genera confusión sobre el régimen jurídico real y una falsa sensación de
-revocabilidad.
+revocabilidad. Tampoco se cita el Art. 13 (ej. "obligación legal", letra b) como base de un SLEP: el
+Art. 21 no lo incluye entre las normas aplicables a órganos públicos — la ley sectorial (Ley 21.040,
+normativa MINEDUC, estatutos de personal) es el fundamento de la función legal que exige el Art. 20.
 
 ### Artículo 21 — Principios y normas aplicables
 > **TEXTO LITERAL** (Art. 21, líneas 1509-1540)
@@ -720,11 +741,16 @@ revocabilidad.
 > II y los artículos del Título V y del Título VII [...] Asimismo, le son aplicables los artículos 4°,
 > 5°, 6°, 7° y 8°, en conformidad a lo dispuesto en el artículo 23."
 
-**Razonamiento aplicado:** lista de remisión expresa — un SLEP SÍ está sujeto a: definiciones (Art. 2),
-obligaciones del responsable (14-14 sexies), tratamiento de sensibles (Título II §2-3), transferencia
+**Razonamiento aplicado:** lista de remisión expresa — un SLEP SÍ está sujeto a: principios (Art. 3°,
+inc. 1°), definiciones (Art. 2), obligaciones del responsable (14-14 sexies), encargo a terceros (15 bis),
+tratamiento de sensibles y categorías especiales (Título II §2-3, Arts. 16 a 16 sexies), transferencia
 internacional (Título V) e infracciones/sanciones (Título VII), y a los derechos ARCO+ básicos (Arts.
-4-8) por reenvío del Art. 23. Confirma que casi todo el cuerpo sustantivo de la ley aplica igual a un
-órgano público, con las reglas especiales del propio Título IV encima.
+4-8) por reenvío del Art. 23. Quedan **fuera** de la remisión, en cambio, los Arts. **12** (consentimiento
+como regla general), **13** (otras bases de licitud), **15** (cesión) y **15 ter** (EIPD obligatoria): la
+base de licitud del SLEP es el Art. 20, la comunicación/cesión se rige por el Art. 22 y la EIPD es buena
+práctica, no obligación legal. No es exacto, entonces, decir que "casi todo aplica igual": aplica el
+núcleo de deberes, sensibles y sanciones, con las reglas especiales del propio Título IV en lugar de las
+del Párrafo 1° no remitidas.
 
 ### Artículo 22 — Comunicación o cesión de datos por un órgano público
 > **TEXTO LITERAL** (Art. 22, líneas 1542-1590)
@@ -741,9 +767,17 @@ internacional (Título V) e infracciones/sanciones (Título VII), y a los derech
 > datos personales."
 
 **Razonamiento aplicado:** transferencias SLEP→MINEDUC/SIGE/DEMRE/CPEIP/JUNJI (entre órganos públicos) no
-requieren consentimiento si son necesarias para función legal de ambos — pero SLEP→proveedor privado
-(ej. software cloud) SÍ requiere consentimiento salvo fiscalización/inspección, lo que en la práctica casi
-nunca aplica a un proveedor tecnológico. Deber de transparencia activa: publicar mensualmente en el sitio
+requieren consentimiento si son necesarias para función legal de ambos. La comunicación o cesión
+SLEP→privado sí requiere consentimiento salvo fiscalización/inspección (inc. 4°). Pero un proveedor que
+trata los datos **por cuenta del SLEP** (ej. software cloud contratado) es un **encargado** (Art. 2° x;
+Art. 15 bis, aplicable por el Art. 21), no un cesionario: la cesión es la transferencia "a otro
+responsable de datos" (Art. 2° v), y el responsable decide fines y medios "con independencia de si los
+datos son tratados directamente por ella o a través de un tercero mandatario o encargado" (Art. 2° n).
+Ese tratamiento sigue siendo del SLEP, bajo su base del Art. 20 y con el contrato del Art. 15 bis (DPA) —
+no exige consentimiento por el Art. 22. Si el proveedor usa los datos para fines propios, deja de ser
+encargado (Art. 15 bis inc. 2°) y ese flujo pasa a ser cesión/comunicación a un privado sujeta al inc.
+4°. Ojo: la definición de "comunicación" (Art. 2° c) es amplia; la lectura que excluye al encargado
+descansa en los Arts. 2° n) y 15 bis — revisar si la Agencia se pronuncia. Deber de transparencia activa: publicar mensualmente en el sitio
 web los convenios de cesión — obligación concreta y verificable de auditoría (¿el sitio web del SLEP
 publica esto hoy?).
 

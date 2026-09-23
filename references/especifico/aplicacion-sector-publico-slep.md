@@ -1,8 +1,9 @@
 # Aplicación al sector público — SLEP y organismos educativos
 
 > Ángulo específico para servicios públicos (SLEP, DEM/DAEM, DEP). El régimen aplicable de tratamiento de
-> datos por órganos públicos es el **Título IV de la Ley 19.628 modificada (Arts. 20-26)**, no el régimen
-> general de privados (Título II) — texto completo de cada artículo en `mapa-articulos-ley21719.md` y
+> datos por órganos públicos es el **Título IV de la Ley 19.628 modificada (Arts. 20-26)**, no las bases
+> de licitud, cesión y EIPD de privados (Arts. 12, 13, 15 y 15 ter, que el Art. 21 no remite); del Título
+> II sí le aplican, por remisión del Art. 21, los Arts. 14 a 14 sexies, 15 bis y los Párrafos 2° y 3° — texto completo de cada artículo en `mapa-articulos-ley21719.md` y
 > `mapa-articulos-reglamento-mpi.md`; este archivo cruza ambos con el ángulo SLEP y cita solo el fragmento
 > puntual que sostiene cada afirmación (formato dual TEXTO LITERAL + Razonamiento aplicado igual que los
 > otros dos archivos de esta carpeta).
@@ -43,17 +44,19 @@ personales, activa además el Estatuto Administrativo.
 > los datos personales contenidos en los registros electrónicos de infracciones [...] El incumplimiento
 > [...] constituye una infracción gravísima" (línea 1749-1754)
 
-**Razonamiento aplicado:** aplica directamente a sumarios administrativos y licencias médicas con causa
-disciplinaria del personal SLEP — plazo de publicidad de 5 años y prohibición expresa de cruzar
+**Razonamiento aplicado:** aplica directamente a sumarios administrativos y sanciones disciplinarias del
+personal SLEP (si una licencia médica da origen a un procedimiento disciplinario, el Art. 25 cubre el dato
+de la infracción y su sanción, no la licencia en sí: el dato de salud sigue rigiéndose por el Art. 16
+bis) — plazo de publicidad de 5 años y prohibición expresa de cruzar
 masivamente esos registros (ej. para un "scoring de riesgo de personal") sin autorización legal
 específica, bajo pena de infracción gravísima.
 
 ### Coexistencia con la Ley 20.285 (transparencia)
 La Ley 21.719 no deroga ni reemplaza la Ley 20.285 — un dato puede ser público para efectos de
 transparencia activa/pasiva y **simultáneamente** estar protegido como dato personal; no son regímenes
-mutuamente excluyentes. El Art. 22 inciso 4° de la Ley 19.628 modificada ya exige expresamente
-consentimiento del titular para responder una solicitud de transparencia que implique datos personales,
-salvo el caso ya resuelto en el Art. 20 de la Ley 20.285 — se pide la base de licitud correcta en cada
+mutuamente excluyentes. El Art. 22 inciso 5° de la Ley 19.628 modificada ya exige expresamente
+consentimiento del titular para comunicar o ceder datos personales en respuesta a una solicitud de
+transparencia, obtenido en la oportunidad prevista en el Art. 20 de la Ley 20.285 — se pide la base de licitud correcta en cada
 caso, no se resuelve por defecto a favor de uno u otro régimen.
 
 ## DPO en el sector público — precisión importante
@@ -98,8 +101,16 @@ certificarse.
 > **TEXTO LITERAL** (Art. 2 letra g, ver cita completa en `mapa-articulos-ley21719.md`) "Datos personales
 > sensibles: [...] los datos relativos a la salud [...]"
 
-**Razonamiento aplicado:** dato sensible por definición legal — exige consentimiento expreso/reforzado
-(Art. 16) o base legal específica (Decretos 170/2009, 83/2015 para PIE); nunca tratarlo como dato común.
+**Razonamiento aplicado:** dato sensible por definición legal y, por ser de salud, sujeto al régimen
+especial del **Art. 16 bis** (aplicable al SLEP por el Art. 21), no solo al Art. 16. La base general del
+SLEP es el Art. 20, pero sin consentimiento expreso (Art. 16 inc. 1°, al que remite el Art. 16 bis) el
+dato de salud solo puede tratarse en los casos del inc. 2° del Art. 16 bis — para PIE, típicamente la
+letra f), ley que lo permita e indique expresamente la finalidad (Decretos 170/2009, 83/2015 [verificar
+norma sectorial]); para licencias médicas, las letras e) o f) —, y el inc. 3° prohíbe tratar datos de
+salud recolectados en el ámbito laboral o educativo salvo que la ley lo autorice expresamente en casos
+calificados. En PIE rige además el Art. 16 quáter (consentimiento de padres/representantes para niños y
+para sensibles de adolescentes <16, salvo que la ley lo autorice o mande). "Consentimiento reforzado" no
+es un término legal. Nunca tratarlo como dato común.
 
 ### IVE (Índice de Vulnerabilidad Escolar)
 > **TEXTO LITERAL** (Art. 2 letra g) "[...] revelen [...] la situación socioeconómica [...]"

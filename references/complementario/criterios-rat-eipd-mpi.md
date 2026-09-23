@@ -55,8 +55,10 @@ capacitación, gestión de brechas): sin RAT actualizado no se puede saber qué 
 > arriba). Vale la pena replicar los tres patrones en cualquier plantilla propia (Excel/
 > Word/PowerApps): la cita en el campo mismo (no solo en un anexo) reduce el error de "no sé por qué pido
 > este dato", la jerarquía de procesos evita que el RAT se construya como una lista plana sin dueño claro
-> por proceso — coherente con lo que ya exige el Reglamento Art. 3 letra d) sub-elemento i (a qué proceso
-> de negocio pertenece el tratamiento) —, y el propósito por dato específico agrega granularidad útil
+> por proceso — coherente con la letra e) del Art. 3 del Reglamento, que exige identificar "las
+> actividades de tratamiento de datos o procesos de la entidad" en cuyo contexto se genere o incremente el
+> riesgo de infracción (el romano i. de la letra d) no trata de procesos: exige "El tipo de datos
+> personales que el responsable trata", indicando si incluye sensibles o categorías especiales) —, y el propósito por dato específico agrega granularidad útil
 > (no obligatoria) sobre el mínimo legal del romano v).
 
 ## 2. EIPD / PIA (Evaluación de Impacto en Protección de Datos)
@@ -64,7 +66,10 @@ capacitación, gestión de brechas): sin RAT actualizado no se puede saber qué 
 **Cuándo es obligatoria por ley — Art. 15 ter (4 supuestos, cita completa en `mapa-articulos-ley21719.md`):**
 (a) evaluación sistemática/perfilamiento con efectos jurídicos significativos, (b) tratamiento masivo o a
 gran escala, (c) monitoreo sistemático de zona de acceso público, (d) datos sensibles sin consentimiento.
-**La Agencia debe publicar una lista orientativa y orientaciones mínimas de metodología — verificar
+**Salvedad órgano público (SLEP/DAEM):** el Art. 21 inc. 3° no remite el Art. 15 ter — para un órgano
+público la EIPD no es obligatoria por ese artículo; es buena práctica y medio para acreditar los Arts. 14
+quáter y 14 quinquies, que sí le aplican. Donde esta sección dice "obligatoria", se refiere al responsable
+privado. **La Agencia debe publicar una lista orientativa y orientaciones mínimas de metodología — verificar
 activamente si ya lo hizo antes de asumir que no existe.**
 
 **Mientras la Agencia no publique su propia metodología**, esta skill usa como referencia de buena
@@ -99,7 +104,8 @@ perfecto".
 
 **Advertencia de uso:** este template es europeo (GDPR), útil como metodología de buena práctica mientras
 Chile no publique la suya, pero **nunca se cita como si fuera la norma chilena** — cualquier EIPD real
-para un SLEP debe fundarse en el Art. 15 ter y adaptarse a la terminología y bases de licitud de la ley
+debe fundarse en el Art. 15 ter (en un SLEP/órgano público, al que el Art. 21 no remite ese artículo, en
+los Arts. 14 quáter y 14 quinquies, usando los supuestos del 15 ter como criterio de buena práctica) y adaptarse a la terminología y bases de licitud de la ley
 19.628 modificada, no copiar artículos GDPR.
 
 > **COMPLEMENTARIO — patrón de producto observado** (MitigaData, demo 2026-09-10, ver
