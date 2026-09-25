@@ -148,7 +148,7 @@ la 19.628 ya modificada.
   modelo de transferencia internacional, vigencia **transitoria** hasta que la Agencia dicte su propia
   norma (Art. 28 inciso 2°). Ver `references/especifico/clausulas-modelo-transferencia-internacional.md`.
 
-## Fuentes — capa complementaria (poblada 2026-09-08, íntegra y chunkeada — 17 documentos)
+## Fuentes — capa complementaria (poblada 2026-09-08, ampliada 2026-09-25, íntegra y chunkeada — 23 documentos)
 `sources/complementario/` — cada PDF extraído completo con `doc_full_extract.py` (INDICE.md + chunks,
 integridad verificada, nada resumido):
 - Doctrina Diplomado U. Chile: `mod01.01-gobierno-corporativo-proteccion-datos`,
@@ -158,6 +158,7 @@ integridad verificada, nada resumido):
   `libro-informes-comision-asesora-datos`, `el-rol-del-dpo`, `libro-blanco-del-dpo`,
   `data-privacy-principios`, `dpia-template-referencia` (template EDPB, agregado 2026-09-08 al detectar
   el hueco para §2 de `criterios-rat-eipd-mpi.md` — no estaba en la lista original propuesta).
+- Diplomado Mód. 2 — gestión del riesgo y análisis de impacto (agregado 2026-09-25): `mod02.01-gestion-riesgo-analisis-impacto-clase1`, `mod02.02-gestion-riesgo-analisis-impacto-clase2` (estructura DPIA de 16 secciones y 4 fases del PIA), y la bibliografía del módulo: `aepd-gestion-riesgo-evaluacion-impacto-2021` (factores de riesgo, escalas, inherente/residual), `aepd-guia-practica-eipd-2018` (proceso EIPD, catálogo de amenazas), `aepd-guia-privacidad-desde-el-diseno-2019` (estrategias y tácticas PbD), `ibm-cost-of-a-data-breach-2026` (solo cifras con página). Todo AEPD/EDPB es RGPD: citar como metodología comparada, nunca como norma chilena. Síntesis operativa: `references/complementario/eipd.md`.
 - Estándares ya adquiridos por Pepe: `nist-privacy-framework-1.1`, `iso-iec-29100-2024`,
   `iso-iec-27701-2025` (Segunda Edición 2025-10 — con OCR aplicado 2026-09-14, ahora extraíble y
   verificada íntegra, 72 páginas; ver `crosswalk-iso27001-27701.md` para la estructura de cláusulas

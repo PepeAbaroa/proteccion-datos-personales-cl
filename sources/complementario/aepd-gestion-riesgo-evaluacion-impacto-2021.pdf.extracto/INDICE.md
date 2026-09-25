@@ -1,0 +1,173 @@
+# ÍNDICE TOTAL — aepd-gestion-riesgo-evaluacion-impacto-2021.pdf
+
+Inventario completo (nada omitido). Cargar al contexto este índice SIEMPRE;
+los chunks, solo el que la tarea toque.
+
+## Inventario
+- Páginas: 160
+- Imágenes totales: 193
+
+## Mapa de chunks
+- `chunk_000.md` — página 1 (271 chars) · «Gestión del riesgo y  evaluación de impacto  en tratamientos de datos  personales         …»
+- `chunk_001.md` — página 2 (2468 chars) · «Página: 2 de 160          RESUMEN EJECUTIVO    El presente documento es una guía para la g…»
+- `chunk_002.md` — página 3 (2138 chars) · «Página: 3 de 160         ÍNDICE    I.  INTRODUCCIÓN  10  II.  CONCEPTOS ASOCIADOS A LA GES…»
+- `chunk_003.md` — página 4 (1983 chars) · «Página: 4 de 160    F.  Implementación de los controles, verificación y reevaluación: la g…»
+- `chunk_004.md` — página 5 (2339 chars) · «Página: 5 de 160    8.  Demostrar  114  D.  Medidas de seguridad para la protección de los…»
+- `chunk_005.md` — página 6 (512 chars) · «Página: 6 de 160    G.  Respuesta de la Autoridad de Control  154  1.  Solicitud de inform…»
+- `chunk_006.md` — página 7 (4660 chars) · «Página: 7 de 160    INDICE DE FIGURAS    Figura 1 Cumplimiento como requisito previo a la …»
+- `chunk_007.md` — página 8 (4804 chars) · «Página: 8 de 160      INDICE DE TABLAS  Tabla 1 Ejemplos de distintas perspectivas de la g…»
+- `chunk_008.md` — página 9 (1979 chars) · «Página: 9 de 160    Tabla 39 Estrategias, descripción, tácticas, controles y patrones de p…»
+- `chunk_009.md` — página 10 (4333 chars) · «Página: 10 de 160    I.  INTRODUCCIÓN  En toda nueva actividad, el realizar una reflexión …»
+- `chunk_010.md` — página 11 (3041 chars) · «Página: 11 de 160    III.  El proceso de gestión del riesgo para los derechos y libertades…»
+- `chunk_011.md` — página 12 (3774 chars) · «Página: 12 de 160    SECCIÓN 1: FUNDAMENTOS DE LA GESTIÓN DE RIESGOS  PARA LOS DERECHOS Y …»
+- `chunk_012.md` — página 13 (3943 chars) · «Página: 13 de 160    (tratamientos11), uno de los dos pilares para la gestión de la calida…»
+- `chunk_013.md` — página 14 (2876 chars) · «Página: 14 de 160    responsabilidad civil16 o penal que se puedan derivar de efectos dire…»
+- `chunk_014.md` — página 15 (3748 chars) · «Página: 15 de 160    B.  LA GESTIÓN DEL RIESGO EN EL RGPD  El RGPD hace referencia al térm…»
+- `chunk_015.md` — página 16 (4544 chars) · «Página: 16 de 160    Por otra parte, la «gestión de riesgos» puede definirse como las acti…»
+- `chunk_016.md` — página 17 (3060 chars) · «Página: 17 de 160    riesgos para el sujeto de los datos que se están tratando, sino los d…»
+- `chunk_017.md` — página 18 (2443 chars) · «Página: 18 de 160      Figura 1 Cumplimiento como requisito previo a la gestión del riesgo…»
+- `chunk_018.md` — página 19 (3507 chars) · «Página: 19 de 160    responsabilidades a un tercero, no es una medida para gestionar el ri…»
+- `chunk_019.md` — página 20 (3549 chars) · «Página: 20 de 160    E.  LA GESTIÓN DEL RIESGO EN TODOS LOS TRATAMIENTOS  Todas las activi…»
+- `chunk_020.md` — página 21 (2508 chars) · «Página: 21 de 160    Además, a la hora de determinar los factores de riesgo a gestionar, h…»
+- `chunk_021.md` — página 22 (1352 chars) · «Página: 22 de 160    •  Descripción del tratamiento, tanto en lo que respecta a su natural…»
+- `chunk_022.md` — página 23 (2498 chars) · «Página: 23 de 160    Al ser un proceso, este ha de plasmarse en las políticas de la organi…»
+- `chunk_023.md` — página 24 (3604 chars) · «Página: 24 de 160    En el marco de una organización, todos estos análisis no deben gestio…»
+- `chunk_024.md` — página 25 (3166 chars) · «Página: 25 de 160    identificados y las medidas adoptadas deben incorporarse al proceso d…»
+- `chunk_025.md` — página 26 (1065 chars) · «Página: 26 de 160    revisar de forma continua, “al menos cuando exista un cambio del ries…»
+- `chunk_026.md` — página 27 (1381 chars) · «Página: 27 de 160      Figura 7: Esquema básico del proceso de gestión del riesgo incluyen…»
+- `chunk_027.md` — página 28 (1788 chars) · «Página: 28 de 160    •  Requiere recabar la opinión de los interesados, o sus representant…»
+- `chunk_028.md` — página 29 (3202 chars) · «Página: 29 de 160    III.  EL PROCESO DE GESTIÓN DEL RIESGO PARA LOS DERECHOS Y  LIBERTADE…»
+- `chunk_029.md` — página 30 (1131 chars) · «Página: 30 de 160    Los fines del tratamiento han de describirse de forma clara, precisa …»
+- `chunk_030.md` — página 31 (2030 chars) · «Página: 31 de 160    DESCRIPCIÓN DEL TRATAMIENTO  Su propósito    Su naturaleza  Su ámbito…»
+- `chunk_031.md` — página 32 (3568 chars) · «Página: 32 de 160    La descripción del tratamiento puede ir más allá de las obligaciones …»
+- `chunk_032.md` — página 33 (1520 chars) · «Página: 33 de 160    riesgo se materialice de forma efectiva. La probabilidad dependerá ta…»
+- `chunk_033.md` — página 34 (3133 chars) · «Página: 34 de 160    ficheros de datos personales con relación a la seguridad de los datos…»
+- `chunk_034.md` — página 35 (2984 chars) · «Página: 35 de 160    de perfiles, y sobre cuya base se tomen decisiones que produzcan efec…»
+- `chunk_035.md` — página 36 (4284 chars) · «Página: 36 de 160    •  Los riesgos identificados en el Considerando 7551.  •  Los casos y…»
+- `chunk_036.md` — página 37 (3444 chars) · «Página: 37 de 160    entidades de telecomunicaciones, grandes entidades financieras, asegu…»
+- `chunk_037.md` — página 38 (2152 chars) · «Página: 38 de 160    •  En cuanto previenen la materialización del riesgo o se activan com…»
+- `chunk_038.md` — página 39 (3311 chars) · «Página: 39 de 160    Medidas y  garantías en  base al RGPD  Medidas sobre el concepto y di…»
+- `chunk_039.md` — página 40 (1935 chars) · «Página: 40 de 160    E.  BRECHAS DE DATOS PERSONALES Y SEGURIDAD EN LOS TRATAMIENTOS  Todo…»
+- `chunk_040.md` — página 41 (1806 chars) · «Página: 41 de 160      Figura 11: Las medidas de seguridad en la gestión del riesgo para l…»
+- `chunk_041.md` — página 42 (3649 chars) · «Página: 42 de 160    dedicado a las medidas que han de garantizar la seguridad del tratami…»
+- `chunk_042.md` — página 43 (1710 chars) · «Página: 43 de 160    Finalmente, es necesario gestionar los errores técnicos derivados de …»
+- `chunk_043.md` — página 44 (2279 chars) · «Página: 44 de 160    siempre existe, también hay que considerar medidas para eliminar, dis…»
+- `chunk_044.md` — página 45 (2989 chars) · «Página: 45 de 160    Del ejemplo anterior se pueden extraer las siguientes reflexiones:  •…»
+- `chunk_045.md` — página 46 (1782 chars) · «Página: 46 de 160        Figura 13: Evolución de la probabilidad de una brecha en el tiemp…»
+- `chunk_046.md` — página 47 (2804 chars) · «Página: 47 de 160    Capacitación de las personas.  El personal, tanto del nivel más alto …»
+- `chunk_047.md` — página 48 (2494 chars) · «Página: 48 de 160    Sin embargo, en organizaciones donde los niveles de gestión eran pobr…»
+- `chunk_048.md` — página 49 (4139 chars) · «Página: 49 de 160    una solución basada en identificación biométrica, ha de valorarse que…»
+- `chunk_049.md` — página 50 (3262 chars) · «Página: 50 de 160    carácter personal y ha de tener la capacidad de gestionarlas para dar…»
+- `chunk_050.md` — página 51 (2286 chars) · «Página: 51 de 160    establece que las medidas para la gestión del riesgo “se revisarán y …»
+- `chunk_051.md` — página 52 (2105 chars) · «Página: 52 de 160      Figura 15: La gestión del riesgo en el ciclo de vida del tratamient…»
+- `chunk_052.md` — página 53 (1221 chars) · «Página: 53 de 160    En este proceso es de vital importancia la gestión de incidentes (de …»
+- `chunk_053.md` — página 54 (2727 chars) · «Página: 54 de 160    IV.  LA GOBERNANZA DE LOS RIESGOS PARA LOS DERECHOS Y  LIBERTADES  A.…»
+- `chunk_054.md` — página 55 (2416 chars) · «Página: 55 de 160    Por supuesto, y con relación a la obligación de demostrar, dicha polí…»
+- `chunk_055.md` — página 56 (1423 chars) · «Página: 56 de 160      Figura 18: Marco de la ejecución de las políticas de protección de …»
+- `chunk_056.md` — página 57 (2400 chars) · «Página: 57 de 160    tratamiento, en su contexto o incidencias que le  afecten.  Ha de ser…»
+- `chunk_057.md` — página 58 (1714 chars) · «Página: 58 de 160      Figura 19: La documentación del proceso de gestión del riesgo  La d…»
+- `chunk_058.md` — página 59 (2319 chars) · «Página: 59 de 160    •  Identificación de las posibles consecuencias (impacto) que una ame…»
+- `chunk_059.md` — página 60 (2159 chars) · «Página: 60 de 160    SECCIÓN 2: METODOLOGÍA BÁSICA PARA LA APLICACIÓN DE  LA GESTIÓN DEL R…»
+- `chunk_060.md` — página 61 (1725 chars) · «Página: 61 de 160      Figura 20: Niveles en la descripción del tratamiento  La informació…»
+- `chunk_061.md` — página 62 (2277 chars) · «Página: 62 de 160    Fines intermedios y  secundarios76    Alcance y ámbito del tratamient…»
+- `chunk_062.md` — página 63 (2329 chars) · «Página: 63 de 160    Inventario de activos78 que  implementan el tratamiento  Especificand…»
+- `chunk_063.md` — página 64 (1917 chars) · «Página: 64 de 160    Medidas y garantías implementadas  Políticas de protección de  datos …»
+- `chunk_064.md` — página 65 (1924 chars) · «Página: 65 de 160    Potenciales amenazas  Derivadas de los elementos técnicos, humanos u …»
+- `chunk_065.md` — página 66 (1738 chars) · «Página: 66 de 160    A su vez, el artículo 4 del RGPD define dos tratamientos de datos que…»
+- `chunk_066.md` — página 67 (1941 chars) · «Página: 67 de 160    sombreado se encuentran aquellas fases que, en este ejemplo, no trata…»
+- `chunk_067.md` — página 68 (2707 chars) · «Página: 68 de 160    calidad de datos, exactitud, disponibilidad,  resiliencia, etc.  Medi…»
+- `chunk_068.md` — página 69 (1809 chars) · «Página: 69 de 160    •  Comunicación a un tercero: Comprende el traspaso o comunicación de…»
+- `chunk_069.md` — página 70 (2995 chars) · «Página: 70 de 160    D.  INVENTARIO DE ACTIVOS  Activo se define como todo bien o recurso …»
+- `chunk_070.md` — página 71 (1566 chars) · «Página: 71 de 160      Figura 26: En este caso, los tratamientos 1 y 2 incluyen fases de c…»
+- `chunk_071.md` — página 72 (334 chars) · «Página: 72 de 160    En ese caso, en la descripción del tratamiento en sus distintos nivel…»
+- `chunk_072.md` — página 73 (3464 chars) · «Página: 73 de 160    VI.  IDENTIFICACIÓN Y ANÁLISIS DE FACTORES DE RIESGO  La identificaci…»
+- `chunk_073.md` — página 74 (3314 chars) · «Página: 74 de 160    A.  IDENTIFICACIÓN DE LOS FACTORES DE RIESGO  En el RGPD, y en su des…»
+- `chunk_074.md` — página 75 (2334 chars) · «Página: 75 de 160    Probabilidad  Muy alta  Medio  Alto  Muy alto  Muy alto  Alta  Bajo  …»
+- `chunk_075.md` — página 76 (1634 chars) · «Página: 76 de 160    y/o  Se produce o puede producirse usurpación de  la identidad de los…»
+- `chunk_076.md` — página 77 (1940 chars) · «Página: 77 de 160    Si hay constancia de diversas materializaciones de dicho  riesgo en e…»
+- `chunk_077.md` — página 78 (3699 chars) · «Página: 78 de 160    C.  LISTA DE FACTORES DE RIESGO IDENTIFICADOS EN LA NORMATIVA  El RGP…»
+- `chunk_078.md` — página 79 (1812 chars) · «Página: 79 de 160    Factores técnicos del  tratamiento  Factores de riesgo que se derivan…»
+- `chunk_079.md` — página 80 (1724 chars) · «Página: 80 de 160    Evaluación de sujetos  P.ej. y sin ser exhaustivos:  •  Valoración  •…»
+- `chunk_080.md` — página 81 (1604 chars) · «Página: 81 de 160    •  Control mediante sonidos  •  Control de comunicaciones  •  Control…»
+- `chunk_081.md` — página 82 (1708 chars) · «Página: 82 de 160    •  Derecho a la no discriminación  •  Derecho a la vida y a la integr…»
+- `chunk_082.md` — página 83 (1436 chars) · «Página: 83 de 160      Factor de riesgo      Nivel de riesgo  Documentos personales  P.ej.…»
+- `chunk_083.md` — página 84 (1958 chars) · «Página: 84 de 160    Rendimiento laboral  P.ej. sin ser exhaustivos:  •  Control de acceso…»
+- `chunk_084.md` — página 85 (2994 chars) · «Página: 85 de 160    •  Quejas sobre la persona  •  Otros  Datos de localización  P.ej., s…»
+- `chunk_085.md` — página 86 (1727 chars) · «Página: 86 de 160    •  Modo de andar   •  Descriptores corporales de cualquier índole  • …»
+- `chunk_086.md` — página 87 (1827 chars) · «Página: 87 de 160    •  Otros  Datos y metadatos de las comunicaciones electrónicas y  dat…»
+- `chunk_087.md` — página 88 (1933 chars) · «Página: 88 de 160    •  El número de interesados afectado es elevado en  relación con la p…»
+- `chunk_088.md` — página 89 (1654 chars) · «Página: 89 de 160      Factor de riesgo      Nivel de riesgo  Menores de 14 años  Muy Alto…»
+- `chunk_089.md` — página 90 (1679 chars) · «Página: 90 de 160    Nuevas tecnologías  P.ej. y sin ser exhaustivos:  •  Tecnologías inma…»
+- `chunk_090.md` — página 91 (1835 chars) · «Página: 91 de 160    Enlace de registros de bases de datos de dos o más  tratamientos con …»
+- `chunk_091.md` — página 92 (1798 chars) · «Página: 92 de 160    Podría determinar la situación financiera   Medio    Podría determina…»
+- `chunk_092.md` — página 93 (1717 chars) · «Página: 93 de 160    8.  Categoría del responsable/encargado  Factores de riesgo que se de…»
+- `chunk_093.md` — página 94 (2571 chars) · «Página: 94 de 160    Difusión libre de identificadores únicos.   P. ej. y sin ser exhausti…»
+- `chunk_094.md` — página 95 (1932 chars) · «Página: 95 de 160    Tratamiento  Escenario N  Brecha materializada  Descripción del tipo …»
+- `chunk_095.md` — página 96 (1322 chars) · «Página: 96 de 160    Trazabilidad  Máximo / Alto / Medio / Improbable  Autenticidad/Identi…»
+- `chunk_096.md` — página 97 (2295 chars) · «Página: 97 de 160      Dimensión: C/D/I/T/A/R/B/E    Probabilidad  Muy alta  Medio  Alto  …»
+- `chunk_097.md` — página 98 (1952 chars) · «Página: 98 de 160    de seguridad analizada y, en caso afirmativo, se procedería a estimar…»
+- `chunk_098.md` — página 99 (1529 chars) · «Página: 99 de 160    Existencia de otros tratamientos de alto riesgo en  la organización  …»
+- `chunk_099.md` — página 100 (1601 chars) · «Página: 100 de 160    Otros      Recogida y generación de datos      Tasas de falsos posit…»
+- `chunk_100.md` — página 101 (1015 chars) · «Página: 101 de 160    •  Las AA.PP.  •  Entidades de telecomunicaciones.  •  Entidades fin…»
+- `chunk_101.md` — página 102 (2692 chars) · «Página: 102 de 160    VII.  EVALUACIÓN DEL NIVEL DE RIESGO DEL TRATAMIENTO  La evaluación …»
+- `chunk_102.md` — página 103 (1836 chars) · «Página: 103 de 160      Figura 27: Un forma simplicada de calcular el riesgo del tratamien…»
+- `chunk_103.md` — página 104 (2806 chars) · «Página: 104 de 160    VIII. CONTROLES PARA DISMINUIR EL RIESGO  Una vez identificados los …»
+- `chunk_104.md` — página 105 (2366 chars) · «Página: 105 de 160      Verificar la posibilidad de implementar medios alternativos de  tr…»
+- `chunk_105.md` — página 106 (2997 chars) · «Página: 106 de 160    Estas medidas deberán estar integradas en las medidas de gobernanza …»
+- `chunk_106.md` — página 107 (2750 chars) · «Página: 107 de 160    En cuanto a las políticas de protección de datos integradas en los  …»
+- `chunk_107.md` — página 108 (2594 chars) · «Página: 108 de 160    Con relación a la seguridad (tanto de la organización como de la inf…»
+- `chunk_108.md` — página 109 (2957 chars) · «Página: 109 de 160      En las guías orientadas a trabajadores, según sus roles específico…»
+- `chunk_109.md` — página 110 (2444 chars) · «Página: 110 de 160      Está procedimentado la referencia a las normas corporativas vincul…»
+- `chunk_110.md` — página 111 (2172 chars) · «Página: 111 de 160    Respecto a las actividades de seguimiento y verificación de las medi…»
+- `chunk_111.md` — página 112 (2618 chars) · «Página: 112 de 160    La Guía de Privacidad desde el Diseño contiene un desarrollo de los …»
+- `chunk_112.md` — página 113 (2685 chars) · «Página: 113 de 160    •  Distribuir: diseminar la recogida y el tratamiento de los diferen…»
+- `chunk_113.md` — página 114 (2485 chars) · «Página: 114 de 160    •  Elegir: proporcionar el control al usuario de la funcionalidad gr…»
+- `chunk_114.md` — página 115 (1386 chars) · «Página: 115 de 160    ESTRATEGIA DE DISEÑO  DE LA PRIVACIDAD  DESCRIPCIÓN Y  TÁCTICAS  CON…»
+- `chunk_115.md` — página 116 (1784 chars) · «Página: 116 de 160    ESTRATEGIA DE DISEÑO  DE LA PRIVACIDAD  DESCRIPCIÓN Y  TÁCTICAS  CON…»
+- `chunk_116.md` — página 117 (3086 chars) · «Página: 117 de 160    Como se ha señalado en los apartados anteriores, los requisitos de s…»
+- `chunk_117.md` — página 118 (2213 chars) · «Página: 118 de 160    de la metodología empleada en la organización para la gestión de rie…»
+- `chunk_118.md` — página 119 (1753 chars) · «Página: 119 de 160    D  n.a.  aplica   =  [op.pl.4]   Dimensionamiento / Gestión de capac…»
+- `chunk_119.md` — página 120 (1676 chars) · «Página: 120 de 160    D  n.a.  aplica   =  [op.cont.1]   Análisis de impacto  D  n.a.  n.a…»
+- `chunk_120.md` — página 121 (1371 chars) · «Página: 121 de 160                [mp.com]   Protección de las comunicaciones  Todas  apli…»
+- `chunk_121.md` — página 122 (1965 chars) · «Página: 122 de 160                [mp.s]   Protección de los servicios  Todas  aplica   = …»
+- `chunk_122.md` — página 123 (1657 chars) · «Página: 123 de 160    Procedimiento de decisión sobre cómo actuar con relación a la  prote…»
+- `chunk_123.md` — página 124 (1653 chars) · «Página: 124 de 160    Dimensión  Nivel  MEDIDAS DE SEGURIDAD    B  M  A              org  …»
+- `chunk_124.md` — página 125 (881 chars) · «Página: 125 de 160    se vean afectadas para cada activo (ver el apartado Identificación y…»
+- `chunk_125.md` — página 126 (2201 chars) · «Página: 126 de 160    IX.  VALORACIÓN DEL RIESGO RESIDUAL Y REVISIÓN  A.  VALORAR EL RIESG…»
+- `chunk_126.md` — página 127 (2732 chars) · «Página: 127 de 160    Como resultado de la efectividad de los controles identificados se o…»
+- `chunk_127.md` — página 128 (2370 chars) · «Página: 128 de 160    C.  REVISIÓN DEL NIVEL DE RIESGO  Para determinar cuándo realizar un…»
+- `chunk_128.md` — página 129 (1865 chars) · «Página: 129 de 160    SECCIÓN 3: EVALUACIÓN DE IMPACTO RELATIVA A LA  PROTECCIÓN DE DATOS …»
+- `chunk_129.md` — página 130 (3294 chars) · «Página: 130 de 160    El encargado del tratamiento recabará el asesoramiento del delegado …»
+- `chunk_130.md` — página 131 (2907 chars) · «Página: 131 de 160    el tratamiento, pero esta razón no entra dentro de las competencias …»
+- `chunk_131.md` — página 132 (119 chars) · «Página: 132 de 160      Figura 30: La EIPD en el proceso de gestión del riesgo.   [2 imáge…»
+- `chunk_132.md` — página 133 (2173 chars) · «Página: 133 de 160    XI.  ANÁLISIS DE LA OBLIGACIÓN DE LLEVAR A CABO LA EIPD  El análisis…»
+- `chunk_133.md` — página 134 (2915 chars) · «Página: 134 de 160    OBLIGACIÓN DE REALIZAR LA EIPD     “Cuando sea probable que un tipo …»
+- `chunk_134.md` — página 135 (385 chars) · «Página: 135 de 160    riesgo que, en su momento, no la realizasen en base a la excepción a…»
+- `chunk_135.md` — página 136 (3140 chars) · «Página: 136 de 160    XII.  ANÁLISIS DE LA NECESIDAD DE REALIZAR UNA EIPD  El conjunto de …»
+- `chunk_136.md` — página 137 (867 chars) · «Página: 137 de 160    De ahí que, tanto el DPD, o si no está nombrado el asesor en protecc…»
+- `chunk_137.md` — página 138 (3637 chars) · «Página: 138 de 160    XIII. EVALUACIÓN DE LA NECESIDAD Y PROPORCIONALIDAD DEL  TRATAMIENTO…»
+- `chunk_138.md` — página 139 (3089 chars) · «Página: 139 de 160    Juicio de  proporcionalidad en  sentido estricto    La gravedad del …»
+- `chunk_139.md` — página 140 (1817 chars) · «Página: 140 de 160      Figura 31: Proceso de evaluación de la necesidad y proporcionalida…»
+- `chunk_140.md` — página 141 (3017 chars) · «Página: 141 de 160    datos y operaciones de tratamiento mínimas y necesarias para abordar…»
+- `chunk_141.md` — página 142 (3903 chars) · «Página: 142 de 160    cualitativamente hablando), haciendo uso de otras tecnologías menos …»
+- `chunk_142.md` — página 143 (3259 chars) · «Página: 143 de 160    derechos y libertades que puede suponer el tratamiento para el inter…»
+- `chunk_143.md` — página 144 (2157 chars) · «Página: 144 de 160    herramientas de responsabilidad activa no sirven para justificar, en…»
+- `chunk_144.md` — página 145 (968 chars) · «Página: 145 de 160    Juicio de necesidad    Determinación  de  la  relevancia de los fine…»
+- `chunk_145.md` — página 146 (1716 chars) · «Página: 146 de 160    Juicio de proporcionalidad en sentido estricto    Identificación del…»
+- `chunk_146.md` — página 147 (2985 chars) · «Página: 147 de 160    XIV. OBLIGACIÓN DE DOCUMENTACIÓN  La EIPD es un proceso que es neces…»
+- `chunk_147.md` — página 148 (1234 chars) · «Página: 148 de 160    “¿Existe la obligación de publicar la EIPD? No, pero publicar un res…»
+- `chunk_148.md` — página 149 (1606 chars) · «Página: 149 de 160    XV.  RECABAR LA OPINIÓN DE LOS INTERESADOS O DE SUS  REPRESENTANTES …»
+- `chunk_149.md` — página 150 (3259 chars) · «Página: 150 de 160    XVI. CONSULTA PREVIA A LA AUTORIDAD DE CONTROL  El artículo 36 del R…»
+- `chunk_150.md` — página 151 (3699 chars) · «Página: 151 de 160    dichas alternativas como posibles medidas técnicas y organizativas s…»
+- `chunk_151.md` — página 152 (2098 chars) · «Página: 152 de 160    Además de lo establecido en el artículo 36 del RGPD, en el artículo …»
+- `chunk_152.md` — página 153 (2909 chars) · «Página: 153 de 160    El responsable del tratamiento presenta la consulta previa    Si exi…»
+- `chunk_153.md` — página 154 (2782 chars) · «Página: 154 de 160    F.  CÓMO SE MATERIALIZA UNA CONSULTA PREVIA  1.  Documentación  El a…»
+- `chunk_154.md` — página 155 (3357 chars) · «Página: 155 de 160    Además, a la hora de gestionar una consulta previa, el RGPD establec…»
+- `chunk_155.md` — página 156 (3716 chars) · «Página: 156 de 160    •  Informar al responsable sobre el correcto análisis entre las dist…»
+- `chunk_156.md` — página 157 (3458 chars) · «Página: 157 de 160    o la EIPD se hubiera llevado a cabo de forma incorrecta (Artículo 35…»
+- `chunk_157.md` — página 158 (2714 chars) · «Página: 158 de 160    lo que obliga a su vez, no solo al deber de secreto de su personal, …»
+- `chunk_158.md` — página 159 (3644 chars) · «Página: 159 de 160    XVII. CONCLUSIONES  Como se señalaba en la introducción, la gestión …»
+- `chunk_159.md` — página 160 (282 chars) · «Página: 160 de 160    tratamiento, en particular si utiliza nuevas tecnologías, por su nat…»
+
+## Verificación de integridad
+- ✔ páginas extraídas == páginas del PDF
