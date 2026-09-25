@@ -87,6 +87,7 @@ la 19.628 ya modificada.
 | Necesito releer el texto legal íntegro sin el filtro de esta skill | `sources/especifico/ley-21719-texto.txt`, `sources/especifico/reglamento-mpi-dto662-25-texto.txt` o `sources/especifico/ley-19628-original-texto.txt` (grep `Artículo N`) |
 | Privacidad desde el diseño (Art. 14 quáter) o accountability/responsabilidad (Art. 3 letra e) cruzados con NIST/ISO/doctrina | `references/complementario/privacy-by-design-accountability.md` |
 | Criterios para armar/justificar un RAT, una EIPD/PIA o un MPI — qué debe contener cada uno, cómo llenarlo | `references/complementario/criterios-rat-eipd-mpi.md` |
+| Ejecutar una EIPD paso a paso: fases, escalas de probabilidad/impacto, factores de riesgo con nivel, catálogo de medidas y estrategias PbD, cuándo reevaluar (método comparado AEPD/EDPB, anclado a artículos chilenos) | `references/complementario/eipd.md` |
 | Vocabulario/taxonomía para clasificar qué dato es, para qué se usa y de quién es (Fideslang) al poblar un RAT | `references/complementario/fideslang-taxonomia-clasificacion.md` |
 | Otro cruce con doctrina/estándares (Diplomado U. Chile, ISO 27001/27701/29100, NIST Privacy Framework/AI RMF) no cubierto en los dos archivos de arriba | `sources/complementario/*.pdf.extracto/INDICE.md` (cargar el índice del documento relevante, nunca todo el corpus) |
 | Generar un documento de cumplimiento (política, RAT, DPA, EIPD, consentimiento) | `plantillas/ley-21719/templates/` — usar la cita de artículo ya verificada arriba, no reinterpretar la ley al redactar |

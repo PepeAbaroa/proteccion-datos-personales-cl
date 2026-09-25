@@ -102,6 +102,33 @@ un SLEP: un sistema de "alerta de riesgo de deserción" bien construido y sin fa
 estructural de estigmatización de un alumno — eso se documenta en la EIPD aunque el sistema "funcione
 perfecto".
 
+**Estado del template (verificado 2026-09-25):** el template EDPB es la v1.0 "Template [2026] for DPIA –
+Explainer", adoptada el 10-mar-2026 **para consulta pública** — es un borrador europeo, puede cambiar.
+Desde ahí agrega dos secciones que el mapeo anterior no listaba: **5 Involvement of interested parties**
+(asesoría del DPO y qué hizo el responsable con ella; opinión de titulares o por qué no se pidió) y **6
+Conclusion and decision** con cuatro salidas: (a) abandonar, (b) consultar a la autoridad, (c) seguir según
+lo previsto, (d) seguir con condiciones previas (EDPB-2026 p. 13). En Chile la opción (b) es voluntaria: el
+Art. 15 ter inc. final dice que los responsables "podrán consultar" a la Agencia para obtener
+recomendaciones (no es la consulta previa obligatoria del Art. 36 GDPR).
+
+**Operación paso a paso** (fases, escalas 1-4, bandas de riesgo, factores con nivel sugerido, catálogo de
+medidas y estrategias de privacidad desde el diseño, disparadores de reevaluación): ver
+`references/complementario/eipd.md`, basado en guías públicas de la AEPD (2018, 2019, 2021) y en el
+template EDPB-2026. Resumen de lo que más se usa:
+- La EIPD es un **proceso** que se revisa durante todo el ciclo de vida, no un informe único (AEPD,
+  *Gestión del riesgo y evaluación de impacto*, 2021, p. 25-26) — coherente con el Art. 14 quáter ("con
+  anterioridad y durante el tratamiento").
+- **Necesidad y proporcionalidad en tres juicios** (idoneidad, necesidad, proporcionalidad en sentido
+  estricto); si el tratamiento no los supera, se rediseña antes de seguir con la EIPD — las medidas de
+  seguridad no compensan la falta de necesidad (AEPD 2021, p. 138-139). Ancla CL: Art. 3° c).
+- **Escala comparada**: probabilidad e impacto de 1 a 4, riesgo = P × I, bandas Bajo 1-2 / Medio >2-6 /
+  Alto >6-9 / Muy alto >9 (AEPD, *Guía práctica para las EIPD*, 2018, p. 26-29). Es distinta de la escala
+  1-25 del patrón de producto citado abajo: elegir una y declararla en la sección "método" (EDPB-2026 p. 11).
+- **Residual asumible** en el método comparado: Bajo o Medio (AEPD 2021, p. 127). La ley chilena no fija
+  umbral.
+- **Reevaluar** ante cambios de naturaleza, ámbito, contexto o fines (tabla de disparadores, AEPD 2021,
+  p. 128), y tras toda vulneración (Art. 14 sexies).
+
 **Advertencia de uso:** este template es europeo (GDPR), útil como metodología de buena práctica mientras
 Chile no publique la suya, pero **nunca se cita como si fuera la norma chilena** — cualquier EIPD real
 debe fundarse en el Art. 15 ter (en un SLEP/órgano público, al que el Art. 21 no remite ese artículo, en
